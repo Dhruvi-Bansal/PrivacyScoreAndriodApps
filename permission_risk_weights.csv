@@ -1,0 +1,13 @@
+Permission,RiskWeight,GarrettRank,BordaRank
+CallLogs,0.118,1,1
+ReadPhoneNumbers,0.1036,2,2
+Location,0.1033,3,2
+SMS,0.1005,4,4
+Microphone,0.0848,5,5
+Camera,0.082,6,6
+Contacts,0.0814,7,7
+PhoneState,0.0752,8,8
+Calendar,0.0701,9,9
+Bluetooth,0.0694,10,10
+Storage,0.0595,11,11
+Internet,0.0522,12,12
