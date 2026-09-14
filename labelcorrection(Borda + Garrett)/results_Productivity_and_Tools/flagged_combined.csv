@@ -1,0 +1,643 @@
+App,Package,TrueLabel,Score
+Jeannie,com.pannous.voice.actions.free,Benign,0.9205
+GWT Mobile PhoneGap Showcase,com.gwtmobile.phonegap,Benign,0.799
+Vlingo Virtual Assistant,com.vlingo.client,Benign,0.7503
+Vlingo Virtual Assistant,com.vlingo.client,Benign,0.7503
+Text???nDrive DriveSafely Now!!!,com.textndrive.android,Benign,0.7269
+Droid Commander Lite,com.netclearance.dclite,Benign,0.7117
+LS2 Mobile Library,com.tlcdelivers.ls2mobile,Benign,0.6949
+PhoneGap Mega,com.camden.phonegapmega,Benign,0.6949
+StyleSeat,com.styleseat.promobile,Benign,0.6949
+Lookout Security & Antivirus,com.lookout,Benign,0.6857
+Lookout Security & Antivirus,com.lookout,Benign,0.6857
+4W Job Manager,com.jobcrafts.onthejob,Benign,0.666
+dem0fl0 attsvc htcvivid,com.htc.demoflo_vivid,Benign,0.6657
+Light Flow Lite,com.rageconsulting.android.lightflowlite,Benign,0.6624
+LazyDroid Web Desktop,com.MarcelloAlbano.LazyDroidServer,Benign,0.6329
+LiveHome,com.mo.android.livehome,Benign,0.6218
+uDrove,com.uDrove.main,Benign,0.6175
+NetQin Security & Anti-virus,com.nqmobile.antivirus20,Benign,0.6142
+NetQin Security & Anti-virus,com.nqmobile.antivirus20,Benign,0.6142
+Anti-Virus Pro Trial,com.antivirus.trial,Benign,0.6138
+NetQin Security Pro Trial,com.nqmobile.antivirus_t20,Benign,0.6108
+Intuit GoPayment,com.intuit.intuitgopayment,Benign,0.6075
+MY MOTOSPEAK,com.motorola.motospeak,Benign,0.6033
+Thailand YellowPages,com.initialive.yellowpages.act,Benign,0.6021
+Mobile Utilities & Task Killer,com.symantec.monitor,Benign,0.5965
+Exchange with ExMail free,com.exmailfree,Benign,0.584
+DriveSafe.ly?? Free SMS Reader,com.drivesafe.ly,Benign,0.581
+JuiceDefender,com.latedroid.juicedefender,Benign,0.581
+JuiceDefender,com.latedroid.juicedefender,Benign,0.581
+Remote Web Desktop,net.xdevelop.rm,Benign,0.5611
+MobileIron MyPhone@Work Client,com.mobileiron,Benign,0.5608
+ES Security Manager(Beta),com.estrongs.android.safer,Benign,0.5608
+Clover,com.clover.pay.android,Benign,0.5578
+Battery Update,com.batteryupgradeandroid.batteryupdate.killer,Benign,0.5578
+BlackList,org.baole.app.blacklist,Benign,0.5575
+SOTI MobiControl,net.soti.mobicontrol,Benign,0.5575
+GO Locker,com.jiubang.goscreenlock,Benign,0.5544
+Call Recorder Total Recall Dem,com.killermobile.totalrecall.trial,Benign,0.5544
+Pocket Agent??,com.statefarm.pocketagent,Benign,0.5543
+Pocket Agent??,com.statefarm.pocketagent,Benign,0.5543
+Voice Search,com.google.android.voicesearch,Benign,0.5534
+Super Security Standard,com.superdroid.security2,Benign,0.5508
+Super Security beta,com.superdroid.security,Benign,0.5508
+Widgetsoid2.x,com.jim2,Benign,0.5498
+ScanBizCards Biz Card Reader,com.scanbizcards,Benign,0.5478
+RemoSync Exchange Activesync,com.remoba.eas.ui.activity,Benign,0.5475
+Telicost-Lite,Telicost.com,Benign,0.5475
+Business Card Holder with NFC,kr.co.atsolution.android.nbc,Benign,0.5475
+Zoner AntiVirus Free,com.zoner.android.antivirus,Benign,0.5475
+Tupperware US,com.Tupperware_US_EN,Benign,0.5475
+Western Union,com.westernunion.android.mtapp,Benign,0.5442
+Wheres My Droid,com.alienmanfc6.wheresmyandroid,Benign,0.5442
+DailyFinance ??? Stocks & News,com.aol.mobile.dailyFinance,Benign,0.5418
+uShip,com.unwirednation.notifications.android.ushipnew,Benign,0.5408
+Venmo,com.venmo,Benign,0.5375
+Cisco WebEx Meetings,com.cisco.webex.meetings,Benign,0.5357
+MaaS360 MDM for Android,com.fiberlink.maas360.android.control,Benign,0.5336
+Android 2.2 Demo API,org.achatellier.android.apis,Benign,0.53
+QR BARCODE SCANNER,appinventor.ai_progetto2003.SCAN,Benign,0.5221
+Schedule St.,jp.co.elecom.android.elenote,Benign,0.5221
+Intuit GoPayment for Tablets,com.intuit.gopayment.android.tablet,Benign,0.518
+Pay Anywhere,ban.card.payanywhere,Benign,0.5134
+Phone Swipe,ban.card.phoneswipe,Benign,0.5134
+Forms Central by Formotus,formotus.forms,Benign,0.5123
+Fuze Meeting HD,com.fuzebox.fuze.android,Benign,0.507
+Citi Mobile (SM),com.citi.citimobile,Benign,0.5068
+PayPal,com.paypal.android.p2pmobile,Benign,0.5068
+NH ???????????????,nh.smart,Benign,0.5068
+PayPal,com.paypal.android.p2pmobile,Benign,0.5068
+Evernote,com.evernote,Benign,0.5068
+Nationwide Mobile,com.nationwide.mobile.android.nwmobile,Benign,0.5068
+Evernote,com.evernote,Benign,0.5068
+PayPal,com.paypal.android.p2pmobile,Benign,0.5068
+Call Blocker,com.netqin.mm,Benign,0.5024
+Citrix Receiver Beta,com.citrix.labs.Receiver,Benign,0.5002
+Droid Call Filter,com.droiddev.blocker,Benign,0.4989
+Android Pro Widgets,com.rdr.widgets.core,Benign,0.4944
+Exchange for Android 2.x,com.nitrodesk.droid20.nitroid,Benign,0.4924
+TouchDown HD for Tablets,com.nitrodesk.honey.nitroid,Benign,0.4924
+TouchDown for MobileIron,com.nitrodesk.mi.nitroid,Benign,0.4924
+Exchange for Android 2.x,com.nitrodesk.droid20.nitroid,Benign,0.4924
+Private SMS & call,com.superdroid.spc,Benign,0.4891
+Exchange TouchDown (Andro 1.x),com.nitrodesk.nitroid,Benign,0.4858
+Call blocker,com.phone.sms.privacy.box,Benign,0.4858
+Announcify,org.mailboxer.saymyname,Benign,0.4858
+Catch Notes,com.threebanana.notes,Benign,0.4815
+"DejaOffice -Outlook, USB sync",com.companionlink.clusbsync,Benign,0.4812
+Teradesk,com.teradesk.mobile.android,Benign,0.4791
+TOTAL,com.alamode.davinci,Benign,0.4782
+SMS Backup & Restore,mobi.infolife.smsbackup,Benign,0.4758
+Google Apps GMail ActiveSync,com.remoba.gapp.ui.activity,Benign,0.4756
+Springpad,com.springpad,Benign,0.4749
+Springpad,com.springpad,Benign,0.4749
+Moxier Mail for Tablet,com.moxier.mail.tablet.trial,Benign,0.4745
+Moxier Mail (Exchange),com.emtrace.hermes,Benign,0.4745
+Quickoffice?? Pro Trial,com.qo.android.am3.trial,Benign,0.4724
+Sage ACT! Connect,com.sagemobileforact.androidsync,Benign,0.4712
+RoadSync 2.5 Main App (Demo),com.dataviz.stargate,Benign,0.4712
+SMS Backup & Restore,com.riteshsahu.SMSBackupRestore,Benign,0.4691
+Super SMS Quick Delete,com.superdroid.sqd,Benign,0.4689
+HandsFree SMS Trial,com.smartideas.handsfreesmsdemo,Benign,0.4658
+Super SMS Faker (Free),com.superdroid.ssf,Benign,0.4656
+Super Manager,gpc.myweb.hinet.net.TaskManager,Benign,0.4652
+Success Quotes,com.jon.successquotes,Benign,0.4624
+Sexy Tips,com.peal.RosesTips,Benign,0.4624
+Sex Trivia,com.peal.sextrivia,Benign,0.4624
+Psych Facts,com.jon.psychfacts,Benign,0.4624
+Motivational Quotes,com.jon.motivationalquotes,Benign,0.4624
+Romantic Ideas,com.peal.RomanticIdeas,Benign,0.4624
+Romantic SMS,com.peal.romantic,Benign,0.4624
+Miss You SMS,com.peal.misssms,Benign,0.4624
+Call & SMS Stats,com.wangsong.costwatcher,Benign,0.4624
+Hot Sexy Texts,com.jon.sextril,Benign,0.4624
+Self Help Qutoes,com.jon.selfhelpquotes,Benign,0.4624
+RD Mute,com.raidroid.rdmute,Benign,0.46
+Jabber,com.cisco.telephony.provider,Benign,0.4584
+Battery Saver,com.droiddev.battery,Benign,0.455
+PowerMax,com.voltup.powermax,Benign,0.4549
+Business Calendar Free,netgenius.bizcal,Benign,0.4545
+bMOBILE NOW LITE,com.bMobile.Sales,Benign,0.4537
+Smart App Protector(app lock),com.sp.protector.free,Benign,0.4502
+?????? ??????????????,com.ideomobile.hapoalim,Benign,0.4469
+Battery Defender-Battery Saver,mobi.infolife.batterysaver,Benign,0.4449
+Coordina,com.intelogistica,Benign,0.4436
+Astrid Task/Todo List,com.timsu.astrid,Benign,0.4434
+VoIPaMobile,com.networks.churchill,Benign,0.4417
+mOffice,com.innov8tion.isharesync,Benign,0.4417
+GoToMeeting,com.citrixonline.android.gotomeeting,Benign,0.4385
+FNB Banking App,za.co.fnb.connect.itt,Benign,0.4382
+Android Booster FREE,com.netqin.mobileguard,Benign,0.4382
+Android Booster FREE,com.netqin.mobileguard,Benign,0.4382
+Music Box,net.dada.musicbox.android,Benign,0.4381
+Serve,com.serve.mobile,Benign,0.4381
+Avaya one-X?? Mobile for IPO,com.avaya.ScsCommander,Benign,0.4381
+SmartMoney,com.lee.smartmoney.g,Benign,0.4369
+mark. mobile,com.roamdata.player.android.avon,Benign,0.4352
+ROAMpay,com.roamdata.player.android,Benign,0.4352
+Business Card Reader Free,scan.bcr.ch,Benign,0.435
+ScanCard BCR US/EU Lite,scan.bcr.eu,Benign,0.435
+CamCard Lite,com.intsig.BCRLite,Benign,0.435
+Google Goggles,com.google.android.apps.unveil,Benign,0.4339
+Chipote Chillon,com.appsbar.ChipoteChillon2263,Benign,0.4324
+Jailbreakit,com.appsbar.Jailbreakit34026,Benign,0.4324
+GUNS FOR SALE,com.appsbar.GUNSFORSALE34948,Benign,0.4324
+Salon Startup,com.appsbar.SalonStartup33465,Benign,0.4324
+Car Sound Effect Ringtone,com.nring.EffectCar,Benign,0.4314
+ThinkFree Office Mobile Viewer,com.tf.thinkdroid.amlite,Benign,0.4314
+QuickBooks Mobile,com.intuit.quickbooks,Benign,0.4314
+GO Keyboard,com.jb.gokeyboard,Benign,0.4284
+Huntington Mobile,com.huntington.m,Benign,0.4281
+Expensify,org.me.mobiexpensifyg,Benign,0.425
+Scotiabank Mobile Banking,com.scotiabank.mobile,Benign,0.4247
+Seattle Auto Show 2011,com.crowdcompass.sas2011,Benign,0.4247
+JFNA General Assembly 2011,com.crowdcompass.jfna2011,Benign,0.4247
+PPS Annual Conference 2011,com.crowdcompass.ppsconf,Benign,0.4247
+Ultimate Budgets Free,com.kodeninjas.ultimatebudgets,Benign,0.4224
+Cellbots,com.cellbots,Benign,0.421
+Upvise Pro CRM,Unyverse.pro,Benign,0.4173
+Call Control,com.flexaspect.android.everycallcontrol,Benign,0.4172
+Polycom?? RealPresence??? Mobile,com.polycom.cmad.mobile.android,Benign,0.4142
+ProOnGo,com.proongo.expense,Benign,0.4128
+History Eraser,mobi.infolife.eraser,Benign,0.4105
+History Eraser,mobi.infolife.eraser,Benign,0.4105
+Call tracker bear,com.adaffix.calling.bear.glb.android,Benign,0.4072
+Droid Caller ID US,com.adaffix.droid.us.android,Benign,0.4072
+Call butler,com.adaffix.call.butler.glb.android,Benign,0.4072
+Call watchdog     .,com.adaffix.wdog2.glb.android,Benign,0.4072
+Caller Identification App,com.adaffix.cia.glb.android,Benign,0.4072
+HKTDC Product Magazines,com.hktdc.appgazine,Benign,0.4064
+doForms | Business Forms,com.mdt.doforms.android,Benign,0.4062
+USAA Mobile,com.usaa.mobile.android.usaa,Benign,0.4062
+Progressive Insurance,com.phonevalley.progressive,Benign,0.4062
+USAA Mobile,com.usaa.mobile.android.usaa,Benign,0.4062
+FOX Business,com.twoergo.foxbusiness,Benign,0.4028
+Application Hider,com.mm.security.androidhider1,Benign,0.4028
+Tape-a-Talk Voice Recorder,name.markus.droesser.tapeatalk,Benign,0.4028
+Brightest Flashlight Free???,goldenshorestechnologies.brightestflashlight.free,Benign,0.4028
+Cellica Database(Wi-Fi),com.DB.android.wifi.CellicaDatabase,Benign,0.4028
+Meeting REC AD,kr.lithos.application.ad.meetingrecord,Benign,0.4028
+Cellica Database for Android,com.DB.android.WWDBViewerPlus.WDBViewerPlus,Benign,0.4028
+Contact Delete FREE,com.netqin.pm,Benign,0.4005
+State Bank Freedom,com.sgs.sbi.mbanking,Benign,0.4005
+Olean Area FCU???s MobileCU,com.softek.ofxclmobile.oleanareafcuprod,Benign,0.3995
+VACU Mobile Banking,com.softek.ofxclmobile.virginiacu,Benign,0.3995
+Android System Info,com.electricsheep.asi,Benign,0.3995
+PEFCU Mobile Banking,com.softek.ofxclmobile.publixemployeesfcu,Benign,0.3995
+TwinStar CU Mobile Banking,com.softek.ofxclmobile.twinstar,Benign,0.3995
+CWMoney Expense Track,com.lib.cwmoney,Benign,0.3995
+CALCOASTCU Mobile Banking,com.softek.ofxclmobile.calcoastcu,Benign,0.3995
+Meriwest Mobile Banking,com.softek.ofxclmobile.meriwestcu,Benign,0.3995
+Skyvi (Siri for Android),com.bluetornadosf.smartypants,Benign,0.3995
+KEMBA???s Mobile Banking,com.softek.ofxclmobile.kembafcu,Benign,0.3995
+TFCU Home Branch Mobile,com.softek.ofxclmobile.tinkerfcu,Benign,0.3995
+Michigan First Mobile,com.softek.ofxclmobile.michiganfirst,Benign,0.3995
+ProntoForms,com.truecontext.prontoforms,Benign,0.3995
+Pacific Service CU Mobile,com.softek.ofxclmobile.pacificservicecu,Benign,0.3995
+WSECU Mobile Banking,com.softek.ofxclmobile.wsecu,Benign,0.3995
+First South Financial,com.softek.ofxclmobile.firstsouthfcu,Benign,0.3995
+SRP Mobile,com.softek.ofxclmobile.srpfcu,Benign,0.3995
+Mountain America Credit Union,com.softek.ofxclmobile.macu,Benign,0.3995
+Vi-Net for Android,com.Fragmob.ViDroid,Benign,0.3995
+Anytime Fitness,com.ATF.layout,Benign,0.3987
+SIRI,com.SIRI.layout,Benign,0.3987
+PDX Pipeline: Portland Events,com.PDXPipeline.layout,Benign,0.3987
+Sales Manager,com.vanguard.sales,Benign,0.3962
+Citi ThankYou (sm) Rewards,com.citi.thankyou,Benign,0.3962
+Taskos To Do List | Task List,com.taskos,Benign,0.3939
+NoLED,com.led.notify,Benign,0.3914
+NameCard,com.linkedcontact,Benign,0.3905
+Smart Vibrator (for 1.6+),net.xdevelop.vibrator,Benign,0.3905
+ZDbox (All-In-One toolbox),com.zdworks.android.toolbox,Benign,0.3865
+GO Contacts EX,com.jbapps.contactpro,Benign,0.3863
+iris. (alpha),com.dexetra.iris,Benign,0.3861
+Battery Dr saver+a task killer,net.lepeng.batterydoctor,Benign,0.3798
+Battery Dr saver+a task killer,net.lepeng.batterydoctor,Benign,0.3798
+Super aTool Box-cache battery,net.lepeng.superboxss,Benign,0.3798
+Android Assistant(17 features),com.advancedprocessmanager,Benign,0.3798
+Android Assistant(17 features),com.advancedprocessmanager,Benign,0.3798
+Smart Lock Lite (App/Media),ukzzang.android.app.protectorlite,Benign,0.3785
+OfficeSuite Pro 5 (Trial),com.mobisystems.editor.office_with_reg,Benign,0.3785
+OfficeSuite Viewer 5 (Trial),com.mobisystems.office_with_reg,Benign,0.3785
+DroidStats,nitro.phonestats,Benign,0.3748
+Good for Enterprise,com.good.android.gfe,Benign,0.373
+Gastos M??vil,deeloco.android.gastos.Movil,Benign,0.3714
+Battery Booster,imoblife.batterybooster,Benign,0.3697
+Google Docs,com.google.android.apps.docs,Benign,0.3688
+Google Docs,com.google.android.apps.docs,Benign,0.3688
+Folder Organizer lite,com.abcOrganizer.lite,Benign,0.3663
+4Sale,com.forsale.forsale,Benign,0.3652
+??????????????????,com.skt.smartbill,Benign,0.3652
+Agenda Widget for Android,com.roflharrison.agenda,Benign,0.365
+Alarm Clock Xtreme Free,com.alarmclock.xtreme.free,Benign,0.3631
+Alarm Clock Xtreme Free,com.alarmclock.xtreme.free,Benign,0.3631
+Speaktoit Assistant,com.speaktoit.assistant,Benign,0.3629
+Speaktoit Assistant,com.speaktoit.assistant,Benign,0.3629
+Fake-Call Me,com.agilestorm.fakecall.free,Benign,0.3629
+AirWatch MDM Agent,com.airwatch.androidagent,Benign,0.3629
+SwiftKey X Keyboard Free,com.touchtype.swiftkey.phone.trial,Benign,0.3618
+Jorte,jp.co.johospace.jorte,Benign,0.3606
+Make a Ringtone MP3 PRO,bad.eng.cto,Benign,0.3597
+Top Enjoy Ringtone,com.DesignEjyRtf,Benign,0.3597
+Make Ringtone Mp3 Finder,net.mkringtone.mp3,Benign,0.3597
+MP3 Music Download Pro,net.anim.daemon,Benign,0.3597
+Funny Ringtones 1,com.hui.TVTCFunnyRingtonesI2,Benign,0.3573
+Funny SMS Ringtones 2,com.hui.TVTCFunnySMSRingtonesIIV2,Benign,0.3573
+Digital Business Card,com.abolkog.digitalcards.app,Benign,0.3565
+Ringtone Maker Advance,com.tools.ringtone.version.team,Benign,0.3563
+Favorite Ringtones,com.tm.Ring.MyFvrtr,Benign,0.3563
+Classic Saxophone Ringtone,com.tm.Ring.Sxphrt,Benign,0.3563
+RushCard,com.rushcard.android,Benign,0.3562
+Retail Inventory,com.novalibra.cashierlive.inventory,Benign,0.3555
+Barcode & QR Scanner,com.team.zxing.client.barcode,Benign,0.3555
+Backgrounds Box Wallpapers HD,com.adao.gano.bbhd3,Benign,0.353
+Mobile CRM,net.resco.mobilecrm,Benign,0.353
+OfficeDrop,com.officedrop.applicationactivity,Benign,0.353
+Backgrounds Box Wallpapers HD,com.adao.gano.bbhd3,Benign,0.353
+Manta Business Search,com.manta.android,Benign,0.3529
+Invoice2go Lite,com.invoice2golite,Benign,0.3497
+Money Lover,com.bookmark.money,Benign,0.3497
+I.O.U,de.coderarea.android.iou,Benign,0.3495
+USPS MOBILE??,com.usps,Benign,0.3486
+BizMe,com.pb.bcr,Benign,0.3455
+Vagaro Pro,com.semaphore.login,Benign,0.3455
+Social Workplace Mobile,com.opentext.bluefield,Benign,0.3455
+QuickMark Barcode Scanner,tw.com.quickmark,Benign,0.3455
+Canada Post Corporation,com.canadapost.android,Benign,0.3452
+Privacy Gallery 3D,com.droiddev.gallery3d,Benign,0.3442
+Draw!,com.android.thewongandonly.QuickDraw,Benign,0.3423
+BizcardArmy,com.sprout.bca,Benign,0.3422
+Business Card Reader Lite,com.abbyy.mobile.bcr.lite,Benign,0.3422
+QR Droid,la.droid.qr,Benign,0.3422
+J.P. Morgan Mobile,com.jpm.sig.android,Benign,0.342
+Chase Mobile,com.chase.sig.android,Benign,0.342
+U.S. Bank,com.usbank.mobilebanking,Benign,0.342
+Chase Mobile,com.chase.sig.android,Benign,0.342
+Pull-A-Part,d6.pap.mobile,Benign,0.3419
+devicealive galaxy skyrocket,com.syncables.samsungsghi727,Benign,0.3408
+devicealive htc vivid,com.syncables.htcvivid,Benign,0.3408
+devicealive Atrix2,com.syncables.atrix2,Benign,0.3408
+Windows Phone 7 UI,com.tombarrasso.android.wp7uidemofree,Benign,0.3406
+TalkBack,com.google.android.marvin.talkback,Benign,0.3406
+JobMo,kiefer.JobMo,Benign,0.3395
+Biz cards viewer Carda Lite,com.riadd.android.Carda,Benign,0.3388
+ESC Mobile 12,com.desco.mobile120,Benign,0.3387
+Point of Sale (POS),com.wwci.pss,Benign,0.3386
+Wescom Credit Union Mobile,org.wescom.ibranch,Benign,0.3386
+Mission Federal Credit Union,org.mission.mobile,Benign,0.3386
+Steer Clear?? Mobile,com.statefarm.steerclear,Benign,0.3352
+jot,com.chase.ccs.ink,Benign,0.3342
+Network Traffic Monitor,com.edroidapps.netcounter,Benign,0.3342
+Shoeboxed Receipt Tracker,com.shoeboxed.android.main,Benign,0.3311
+EagleEyes(Lite+),push.lite.avtech.com,Benign,0.3311
+codeREADr ??? Enterprise Scanner,com.skycore.android.codereadr,Benign,0.331
+Square,com.squareup,Benign,0.331
+Japanese Girl Ai Shinozaki,infire.ai.shinozaki.album,Benign,0.3308
+Beautyleg Model Avy Gallery,infire.leg.model.avy,Benign,0.3308
+Album of Korean Sexy Girls,infire.korean.girls.sexy,Benign,0.3308
+Beautyleg Model Ashely Album,infire.legcn.ashely,Benign,0.3308
+Beautyleg Model Jennifer Album,infire.leg.model.jennifer,Benign,0.3308
+PhotoVault,com.droiddev.vault,Benign,0.3308
+Sexy Girls HD,com.zhihui.Wallpaper4,Benign,0.3308
+Beautyleg Model Vevi Gallery,infire.leg.model.vevi,Benign,0.3308
+Japanese Girl Hitomi Furusaki,cn.album.hitomi.furusaki,Benign,0.3308
+Japanese Idol Rena Sawai,cn.album.rena.sawai,Benign,0.3308
+Japanese Girl Yoko Mitsuya,infire.japanese.idol.yoko.mitsuya,Benign,0.3308
+Working Hours,si.matejpikovnik.workinghours,Benign,0.3308
+Charming  Girls,com.zhihui.Wallpaper7,Benign,0.3308
+Beautyleg Model Jellyfish,infire.leg.model.jellyfish,Benign,0.3308
+OpenSignalMaps,com.staircase3.opensignal,Benign,0.3308
+vzw galaxy10.1 device showcase,com.syncables.vzw.galaxytab,Benign,0.3308
+Japanese Girl Hitomi Kitamura,cn.album.hitomi.kitamura,Benign,0.3308
+Beautyleg Model Jessie Album,infire.leg.album.jessie,Benign,0.3308
+Japanese Girl Eri Okr Gallery,cn.album.eri.okr,Benign,0.3308
+Japanese Girl Aki Hoshino,infire.aki.hoshino.album,Benign,0.3308
+Japanese Idol Hara Mikie Album,infire.idol.album.hara.mikie,Benign,0.3308
+Beautyleg Model Yoyo Gallery,infire.leg.model.yoyo,Benign,0.3308
+Sexy Korean Girls(Puzzle),com.SuperQiang.SexyGirlOnLineWallpaper,Benign,0.3308
+Sexy Album of Akina Aoshima,infire.japanese.idol.akina.aoshima,Benign,0.3308
+Japanese Girl Emi Shimizu,infire.jp.emi.shimizu,Benign,0.3308
+Sudoku Puzzles,com.easyfilter.sudoku,Benign,0.3308
+Tiny Flashlight + LED,com.devuni.flashlight,Benign,0.3278
+World Clock,jp.or.tdf.worldclock,Malicious,0.0033
+Studio Clock,de.kjpm.android.ledclock,Malicious,0.0033
+Set Taiwan,RabiSoft.SetTaiwan,Malicious,0.0033
+UCMerced Wireless Configurator,com.UCMWC,Malicious,0.0033
+Task Tray,com.stonedonkey.tasktray,Malicious,0.0033
+OnHook Button Droid,jp.ne.neko.freewing.OnHookButtonX,Malicious,0.0033
+LightSaver Saves Battery,pena.lsaver,Malicious,0.0033
+Ovo timer,org.ilumbo.ovo,Malicious,0.0033
+iFryTurkey,com.nwi.ifryturkey,Malicious,0.0033
+Screen Filter,com.haxor,Malicious,0.0033
+muuTel Free,com.muu.muuTelfree,Malicious,0.0033
+ELECOM ??????????????? powered by ATOK,jp.co.elecom.eleatok,Malicious,0.0033
+Screen Crack,com.laan.toys,Malicious,0.0033
+UC Torch,UCprojects.UCtorch.DV,Malicious,0.0033
+dialR: Texas Rotary Phone Dial,inpha.mous.dialR_TEXAS,Malicious,0.0033
+Silent Toggle,com.rsk.android.silenttoggle,Malicious,0.0033
+Brightness Level,com.curvefish.widgets.brightnesslevel,Malicious,0.0033
+RealHDMI,com.gmanapps.realhdmi,Malicious,0.0033
+App Locker II Pro,net.xdevelop.protector2,Malicious,0.0033
+UC Torch,UCprojects.UCtorch,Malicious,0.0033
+Tone Picker,com.hlidskialf.android.tonepicker,Malicious,0.0033
+XPERIA FlashLight,jp.co.telemarks.ledlightx10,Malicious,0.0033
+UC VodafoneCredit,UCprojects.UCvodafoneCredit,Malicious,0.0033
+Multi Timer-Don't burn turkey,com.murryelectronics.multitimer,Malicious,0.0033
+Flashlight,org.dyndns.devesh.flashlight,Malicious,0.0033
+Circuit Training Timer,com.appsinyourhand.circuittrainingtimer,Malicious,0.0033
+Sticky,com.tokasiki.android.sticky,Malicious,0.0033
+Trading Forex Exposed,com.TradingExposed.book.AOTJCFJPWHUBFGKBN,Malicious,0.0033
+Speed Boost System Cleaner,com.TimothyMilla.SpeedBoost,Malicious,0.0033
+UltraChron Stopwatch Lite,spinninghead.talkingstopwatchlite,Malicious,0.0033
+Swiss Railway Clock,ws.moor.railwayclock,Malicious,0.0
+Compteur,se.oxidi.compteur,Malicious,0.0
+TV Drama Name Generator(HK),com.fartapp.tvdrama,Malicious,0.0
+DocumentsToGo Full Version Key,com.dataviz.docstogoapp,Malicious,0.0
+eCalc,com.domobile.ecalc,Malicious,0.0
+Reach Weapon Timer,halo.Timer,Malicious,0.0
+101 Tips Improving Credit,com.PowerfulipsorLegallImprovingYourCreditScore.magazine.AOTFQCSJYYWELDKTZ,Malicious,0.0
+Hindi Dictionary V2.0,wali.hindidict,Malicious,0.0
+a1-Vamp Night,jp.appdepart.appwidgetex0046,Malicious,0.0
+Deepmemo,ua.privatbank.deepmemo,Malicious,0.0
+???????????????? ???????? ????????????,net.oxdb.DayOffUA,Malicious,0.0
+Ford OBDII CAN Mode $06 PIDs,com.al.obd2.content.A,Malicious,0.0
+Lock phone,com.sen.tl,Malicious,0.0
+Secret Message,sm.android.itkosongsatu.ug,Malicious,0.0
+JoyToy Programming Language,jp.sourceforge.soopy.joytoy.android,Malicious,0.0
+Battery Monitor,battery.monitor,Malicious,0.0
+PersonalToast,it.sarasini.personaltoast,Malicious,0.0
+BW Animation Package,com.levelup.bw.forecast,Malicious,0.0
+Product Caclulator Lite,com.downhometech.productcalculator.lite,Malicious,0.0
+Taiwan Lotto Three Star,irdc.three_star,Malicious,0.0
+Product Calculator,com.downhometech.productcalculator.activities,Malicious,0.0
+SD Maid Pro,eu.thedarken.sdm.unlocker,Malicious,0.0
+Tipsy,edu.berkeley.cs160.tipsy,Malicious,0.0
+TEST TOAST,toaset.base,Malicious,0.0
+??iandien,lt.jopapa.android.siandien,Malicious,0.0
+Work From Home Jobs,com.ptajmarketing.Freelancing,Malicious,0.0
+Gendroid TWO D-day,com.gendroid.two,Malicious,0.0
+Filight,com.encomit.apps.filight,Malicious,0.0
+Tip Calculator,tm.app.tipCalculator,Malicious,0.0
+Random Number Generator Picker,com.numberpicker.activities,Malicious,0.0
+Calc Input,com.sonyericsson.android.calcinputplugin,Malicious,0.0
+Pico Pico Cart,jp.co.maxmouse.pico2cart,Malicious,0.0
+Premium World Clock Widget,com.lge.android.worldclock.widget,Malicious,0.0
+Rc Final Gear Ratio ADS FREE,rc.gearratio.adsfree,Malicious,0.0
+Inches & Feet Calculator,com.InchesAndFeet,Malicious,0.0
+CatLog (Donate),com.nolanlawson.logcat.donate,Malicious,0.0
+The Electricians Tool Pouch,co.thayer.tetpT,Malicious,0.0
+Battery Indicator,com.darshancomputing.BatteryIndicator,Malicious,0.0
+Hack Me If You Can (hard),de.bulling.hackme.hard,Malicious,0.0
+McKellar Slide Rule,com.mckellar.android.sliderule,Malicious,0.0
+Dual Battery Widget,org.flexlabs.widgets.dualbattery,Malicious,0.0
+Alarm to Phone Plus,com.coconuts.alarmtophone,Malicious,0.0
+NovaGear,com.novagear,Malicious,0.0
+Speak French,com.benjaminholfeld.speakfrench,Malicious,0.0
+LumberCalc,com.bootfeetCalc.lumbercalc,Malicious,0.0
+Hack Me If You Can (Kids Mode),de.bulling.hackme.kids,Malicious,0.0
+JuiceDefender Ultimate,com.latedroid.ultimatejuice,Malicious,0.0
+Metrics Conversion Pro,com.inturi.net.android.MetricsConversionPro,Malicious,0.0
+Apps Organizer,com.google.code.appsorganizer,Malicious,0.0
+Horror Digital Clock Free,com.hageltech.horrorclock.free,Malicious,0.0
+Turkish for Smart Keyboard,net.cdeguet.smartkeyboardpro.tr,Malicious,0.0
+Turkish for GO Keyboard,com.jb.gokeyboard.langpack.tr,Malicious,0.0
+Total After Taxes,GamingVibe.Calculation.TotalAfterTaxes,Malicious,0.0
+HKTDC FAIRS,com.cherrypicks.android.hktdc,Malicious,0.0
+Cutting Calculator(Metric),mobilednc.cutcal,Malicious,0.0
+Particles,net.peternitsch.particles,Malicious,0.0
+Maplecrest Ford Lincoln,com.s2rolutions.maplecrestcars,Malicious,0.0
+Horsepower Calculator,com.mtar.horsepower,Malicious,0.0
+Squid,se.rupy.cube,Malicious,0.0
+Lineage??????????????? ??,com.misalabo.lineage.utilmanager,Malicious,0.0
+BLOCCO Toast & Window Plug-in,jp.def.blocco.toastPlugin,Malicious,0.0
+Plugin Filipino Tagalog,klye.plugin.tl,Malicious,0.0
+Wifi SignalBar,tk.goblivion.wifisignalbar,Malicious,0.0
+Mute,muter.muter,Malicious,0.0
+WiFi TXpower,rubberbibpepper.WiFiTxPower,Malicious,0.0
+Redirack Pallet Estimator,com.Redirack.Calculator,Malicious,0.0
+Stopwatch,com.akainteractive.stopwatchtimer,Malicious,0.0
+DreamToyForletprofitcalculator,com.mik_jpn.sedoriprofit_hobby,Malicious,0.0
+New Credit Repair Strategies,com.CreditRepairSuccessStrategies.magazine.AOTFPFPLFYLABCVND,Malicious,0.0
+Essential Kitchen Calculators,com.sidetop.KitchenCalcs,Malicious,0.0
+Flippin Chicken Coin Toss,com.mybasementgames.chickenflip,Malicious,0.0
+Army FlashCards 4,org.me.flashcardsv3,Malicious,0.0
+No Bark! Dog Whistle,com.app.nobark,Malicious,0.0
+exacqVision for Android TM,sentersoft.android.apps.evdroid,Malicious,0.0
+Syngenta TankCalc,com.syngenta.android,Malicious,0.0
+Speak Turkish,com.benjaminholfeld.speakturkish,Malicious,0.0
+Horror Digital Clock Widget,com.hageltech.horrorclock,Malicious,0.0
+Engineering Steam Tables,com.lecodroid.steamtables,Malicious,0.0
+Retro Clock Widget,nl.jsource.retroclock.android,Malicious,0.0
+CABLE CALCULATOR BS7671:2008,org.coopersoft.Cablecheck,Malicious,0.0
+UCLA Walk,com.smturtlebread.uclawalk,Malicious,0.0
+my melody time signal,com.melodyJihoo,Malicious,0.0
+Gesture Password,GesturePassword2.capstone,Malicious,0.0
+Adobe Flash Player 11,com.adobe.flashplayer,Malicious,0.0
+Filipino for GO Keyboard,com.jb.gokeyboard.langpack.tl,Malicious,0.0
+Hindi Dictionary V2.0,wali.hindidict,Malicious,0.0
+Turkish for GO Keyboard,com.jb.gokeyboard.langpack.tr,Malicious,0.0
+Shorter Smiley for ASK,com.anysoftkeyboard.quicktextkeys.shortsmileykey,Malicious,0.0
+CamScanner???License???PDF Creator,com.intsig.lic.camscanner,Malicious,0.0
+Disp Battery Information,jp.ne.neko.freewing.DispBattery,Malicious,0.0
+MIDbot iDroid,com.MIDbotiDroid,Malicious,0.0
+Turkmenistan flag,flag.android.tm,Malicious,0.0
+seNotes,shiloff.com.senotes,Malicious,0.0
+Ruler Green,RulerFreely.Common,Malicious,0.0
+Tawk Pro,com.firstlightapps.TawkPro,Malicious,0.0
+Convertor Lite,name.udell.convertor.lite,Malicious,0.0
+Milling Speed and Feed Calc,com.mstar.mspeed1,Malicious,0.0
+Speak French,com.benjaminholfeld.speakfrench,Malicious,0.0
+Nor-Cal Hobbies Gears,com.seamusoft.gears,Malicious,0.0
+TS Notes,com.tsnotes,Malicious,0.0
+UA ???????? ?? ?????????? ??????????,net.oxdb.StatusUA,Malicious,0.0
+Resi Electric Service FreeCalc,com.intineo.android.resielectricalservicefree,Malicious,0.0
+Nor-Cal Hobbies Gears,com.seamusoft.gears,Malicious,0.0
+CoConUt Traveler Lite,vk.ccn.lt,Malicious,0.0
+devLink 2010 Schedule,com.spencerandbrown.devLink2010,Malicious,0.0
+Asphalt Calculator,com.asphaltcalculator,Malicious,0.0
+Polish,com.kpt.adaptxt.addon.polpl,Malicious,0.0
+Milling Speed and Feed Calcula,com.mstar.mspeed,Malicious,0.0
+Astrid Power Pack,com.todoroo.astrid.ppack,Malicious,0.0
+Security Alarm,com.himaxdev.securityalarm,Malicious,0.0
+CoConUt Traveler,vk.ccn,Malicious,0.0
+SPP Viewer,de.harrypaintner.sppv,Malicious,0.0
+[root] Chainfire3D Pro,eu.chainfire.cf3d.pro,Malicious,0.0
+Locale Toast Plug-in,com.danapple.toastplugin,Malicious,0.0
+Share Apps,com.theronrogers.shareapps,Malicious,0.0
+Kid Math Training Program,com.entrepidea.KidMathTrain,Malicious,0.0
+PSN Level Calculator,de.delimiter.android.psn.levelcalc,Malicious,0.0
+Hada TM Timer,air.tmtimer.hada.org,Malicious,0.0
+Google Authenticator,com.google.android.apps.authenticator,Malicious,0.0
+Top,jp.gr.netfort.dancer.topview,Malicious,0.0
+TV Screen Size Calculator,nl.rapsolutions.android.tvsizecalculator,Malicious,0.0
+GO TaskManager Widget,com.gau.go.launcherex.gowidget.taskmanager,Malicious,0.0
+QR Alarm Clock,com.qralarmclock,Malicious,0.0
+DroidUX API Demos,com.droidux.components.demo,Malicious,0.0
+Plugin Turkish,klye.plugin.tr,Malicious,0.0
+Quick Civil,com.holmesapps.quickcivil,Malicious,0.0
+Screen Light,com.androidappheads.lightscreen,Malicious,0.0
+System Monitor Widget,tm.app.systemMonitorWidget,Malicious,0.0
+StackOperations-DataStructure,com.Android.CCMCA,Malicious,0.0
+Animal Training Guide,apps.dps.animaltraining,Malicious,0.0
+CacheMate for Root Users,com.aac.cachemate,Malicious,0.0
+Tyre Size Calculator (Tire),com.aimenrg.tyrecalc,Malicious,0.0
+Shush! Ringer Restorer,com.publicobject.shush,Malicious,0.0
+Resort Application,com.esat.android.recipe.apps,Malicious,0.0
+Live Wallpaper Trial Unlocker,com.uip.lwp.unlocker,Malicious,0.0
+Tablet Keyboard Free,com.prettyeasy.tabletkeyboard.free,Malicious,0.0
+SoundBack,com.google.android.marvin.soundback,Malicious,0.0
+GO Clock Widget,com.gau.go.launcherex.gowidget.clockwidget,Malicious,0.0
+Mnemonics,com.dajool.app.mnemonics,Malicious,0.0
+BoxCryptor Unlimited Key,com.boxcryptor.android.key,Malicious,0.0
+Forex Trading Strategies,com.ptajmarketing.ForexTradingSt,Malicious,0.0
+Unit Conversion,net.Henkan,Malicious,0.0
+DriverDiary Pro,com.sweypro.driverdiarypro,Malicious,0.0
+Fraction Calculator Free,com.lupptech.fractfree,Malicious,0.0
+Gold Silver Prices License Key,com.terrylau.goldsilvermonitorkey,Malicious,0.0
+Gears for Android(TM),luabear.gears4android,Malicious,0.0
+TwitchRC: RC Car Gearing/Tekin,twitchrc.dcbl.ca,Malicious,0.0
+Franchise Messe 2011 Wien,com.appandmore.android.franchisemesse2011wien,Malicious,0.0
+SlideIT Turkish Pack,com.dasur.language.tur.pack,Malicious,0.0
+Conduit Runner Pro,com.intineo.android.conduitbendpro,Malicious,0.0
+Texas Child Support Calculator,com.tjdjd.texas.ChildSupport,Malicious,0.0
+Dropsync ??? PRO Key,com.ttxapps.dropsync.pro,Malicious,0.0
+Days To Live DeathClock Widget,uk.amimetic.deathclock,Malicious,0.0
+Dog Training,com.ptajmarketing.DogTraining,Malicious,0.0
+The One Percent,net.bespokesystems.android.theonepercent,Malicious,0.0
+IBTR! Breast Cancer Model GUI,med.tom.ibtr,Malicious,0.0
+Gear and Tire Calculator,cameron.gears,Malicious,0.0
+Car Cost,bluffcityapps.carcost,Malicious,0.0
+iJammer,com.and0.iJammer,Malicious,0.0
+Reticle Ranger,net.kndy.reticleranger,Malicious,0.0
+Suzuki GSR 600,com.suzukigsr600.gailas,Malicious,0.0
+muuMail,com.muu.muuMail,Malicious,0.0
+Desk Migrate,com.ma.deskmigrate,Malicious,0.0
+Non-market Apps Enabler,com.bandroidx.nmaenabler,Malicious,0.0
+Bubbles,com.squishythings.bubbles,Malicious,0.0
+knDosenlibelle,net.klauberg.android.dosenlibelle,Malicious,0.0
+Smart Taskbar Home ext,com.smart.taskbar.home,Malicious,0.0
+Feet Inches Calculator,com.seekmobile.feetInchesCalc,Malicious,0.0
+FeetCalc,com.footcalculator,Malicious,0.0
+eSpace Product,com.hoperuns.activity,Malicious,0.0
+Car Lease,com.businesscompassllc.carlease,Malicious,0.0
+Mil Dot Calculator,com.whatifeellikeprogramming.milDotCalculator,Malicious,0.0
+UA Holidays Annual Calendar,net.oxdb.CalHolUA,Malicious,0.0
+Best Tire Calculator,com.moonflower.tire,Malicious,0.0
+Forex Trading: Easy Money,com.ForexTrading.magazine.AOTGDFIDBXNMUNHGB,Malicious,0.0
+Cellular Radiation Detector,tm.app.cellularRadiationDetector,Malicious,0.0
+NovaGear,com.novagear,Malicious,0.0
+Gears (ES2/eclair+),com.jeffboody.GearsES2eclair,Malicious,0.0
+Pure Romance Calculator,com.downhometech.productcalculator.pureromance,Malicious,0.0
+VOLT DROP CALCULATOR BS7671,org.coopersoft.ELcalcV_pro,Malicious,0.0
+VocaList,com.dazey.vocalist,Malicious,0.0
+Jogger R1.5,djf.jogger,Malicious,0.0
+Ukrainian for GOKeyboard,com.jb.gokeyboard.langpack.uk,Malicious,0.0
+Tablet Keyboard,com.prettyeasy.tabletkeyboard.pro,Malicious,0.0
+Spelling Alphabet,tm.app.spellingAlphabet,Malicious,0.0
+Phone Info,myc.phone.PhoneInfo,Malicious,0.0
+Gears (ES1/eclair+),com.jeffboody.GearsES1eclair,Malicious,0.0
+Battery Calibration,com.nema.batterycalibration,Malicious,0.0
+Whistle on Android,org.sorarier.whistle,Malicious,0.0
+Date In Tray,pl.webnet.android.dateintray,Malicious,0.0
+CompassKeyboard,org.dyndns.fules.ck,Malicious,0.0
+Simple Tip Calculator,com.senecacreeksoftware.simpletip,Malicious,0.0
+Gleeo Time Tracker,ch.gridvision.pbtm.androidtimerecorder,Malicious,0.0
+Turkish Keyboard,com.taypo.android.trskb,Malicious,0.0
+DocumentsToGo Full Version Key,com.dataviz.docstogoapp,Malicious,0.0
+Taiwan Clock,tw.com.sti.android.widget.clock.taiwan,Malicious,0.0
+Dimensional Calculator,com.senecacreeksoftware.dimensionalcalculator,Malicious,0.0
+muuMail Free,com.muu.muuMailfree,Malicious,0.0
+Stock Trade Analysis,com.goldstarapp.stock.analysis,Malicious,0.0
+Le R??seau MatR,matr.tk,Malicious,0.0
+Speak French Free,com.benjaminholfeld.speakfrenchfree,Malicious,0.0
+InstaDock Plus Unlocker,com.yamilgv.instadockwidget.unlocker,Malicious,0.0
+Kitchen Converter,net.jamesjohnson.convert,Malicious,0.0
+Scrollit! (notes widget),tk.impoe.scrollitlite,Malicious,0.0
+a1-Send him flying,jp.appdepart.appwidgetex0004,Malicious,0.0
+Muvo,com.evoreto.muvo.rerelease,Malicious,0.0
+alOBD 01-02 Subaru 2.5 Mode$06,com.al.obd2.content.D,Malicious,0.0
+E-Calc USA,com.ecuMain,Malicious,0.0
+Gesture Search Bar,googoo.android.gesturebar,Malicious,0.0
+Sentinel RV Demo,mcs.mobile.app.rv.demo,Malicious,0.0
+Taiwan Lotto Four Star,irdc.four_star,Malicious,0.0
+MarketEnabler donate key,ch.racic.android.marketenabler.donatekey,Malicious,0.0
+LIGHTING CALCULATOR,org.coopersoft.Lumens,Malicious,0.0
+Tactical time,de.androidcrowd.taktischezeit,Malicious,0.0
+RealCalc Scientific Calculator,uk.co.nickfines.RealCalc,Malicious,0.0
+Turkish for Smart Keyboard,net.cdeguet.smartkeyboardpro.tr,Malicious,0.0
+Shop Calculator,com.apps.shopcalc,Malicious,0.0
+FilesCrypter,ua.org.linsalion.FilesCrypter,Malicious,0.0
+a1-Wing in wave,jp.appdepart.appwidgetex0026,Malicious,0.0
+JM Network Tools Donate,jm.network.subnetCalculator.donate,Malicious,0.0
+Regents Exams Lite,com.ts.regents,Malicious,0.0
+Trap Card,com.naearu.trap_card,Malicious,0.0
+Rabtor Clock Widget,upper.duper.widget.rabtor,Malicious,0.0
+Rings Extended,com.angryredplanet.android.rings_extended,Malicious,0.0
+Test Dummy App TN,com.test.testandroid,Malicious,0.0
+SymbolsPanel,jp.wind.petitknyaife.SymbolsPanel,Malicious,0.0
+TorrentDownload,torrentDownload.Project,Malicious,0.0
+Default Browser Selector,com.tarzanapp.DefaultBrowserSelector,Malicious,0.0
+WarStat,com.alban.deubeda.WarhammerStat,Malicious,0.0
+Turkish,com.kpt.adaptxt.addon.turtr,Malicious,0.0
+Clicker,net.bekit.android.clicker,Malicious,0.0
+Samsung Continuum Ticker,com.continuum.demo,Malicious,0.0
+US Citizenship Exam Prep,satish.CitizenshipExam,Malicious,0.0
+Battery Use Widget,com.fjmustak.android.batteryusewidget,Malicious,0.0
+alOBD 01-07 Subaru 3.0 Mode$06,com.al.obd2.content.F,Malicious,0.0
+idea Training,com.ondino.Idea,Malicious,0.0
+Calcula tu prestamo,com.fer.prestamos,Malicious,0.0
+Car Loan Calc,com.flinthillsdesign.CarLoanCalc,Malicious,0.0
+TSA Donation Processor,com.tsa.uss.tx.dp,Malicious,0.0
+Speak Turkish Free,com.benjaminholfeld.speakturkishfree,Malicious,0.0
+Locost,se.bergsland.locost,Malicious,0.0
+Thanksgiving Turkey Timer,com.aSoftDroid.turkey_noAds,Malicious,0.0
+Market Enabler Codes,lu.artou.marketenablercodes,Malicious,0.0
+Conduit Runner Pro,com.intineo.android.conduitbendpro,Malicious,0.0
+Army FlashCards 6,org.me.flashcardsv5,Malicious,0.0
+Toast Clock Widget,com.crosbieapp.toastclock,Malicious,0.0
+Water Timer,com.speedymarks.android.water,Malicious,0.0
+Simple Tip,proctor.simpletip,Malicious,0.0
+Poker Pro Calculator,com.handycode.gaming.poker,Malicious,0.0
+Car Spec Calculator,com.carspeccalc,Malicious,0.0
+Simple Reminder,com.tm_programming.reminder,Malicious,0.0
+?????????????????????,org.sais.pinyintable,Malicious,0.0
+BatteryNotification,jp.masaki.BNf,Malicious,0.0
+Majora's Mask Clock Widget,com.lysolpionex.MajorasMaskClockWidget,Malicious,0.0
+Hypnotic Spiral,com.mikeperrow.spiral,Malicious,0.0
+Secret Box,com.gnugu.secretbox,Malicious,0.0
+WarStat,com.alban.deubeda.WarhammerStat,Malicious,0.0
+Vietnamese Input Method,fpt.g12.android.vime,Malicious,0.0
+Machinery Sizing,com.jsdvorak.machinerysizing,Malicious,0.0
+CCR Mixer,se.fridholm.CCRmixer,Malicious,0.0
+Credit Score Reference Guide,com.csg,Malicious,0.0
+Locale Notification Plug-In,net.andvari.android.notificationsetting,Malicious,0.0
+Random Number Generator Picker,com.numberpicker.activities,Malicious,0.0
+Battery Percentage Notifier,com.incorporateapps.battery,Malicious,0.0
+Random Characters to Clipboard,caryl_hafod.RandomChars,Malicious,0.0
+GPS OnOff,com.curvefish.widgets.gpsonoff,Malicious,0.0
+Very Easy Japanese Keyboard,jp.ne.neko.freewing.JapaneseKeyboard,Malicious,0.0
+TenjiPlayer,jp.tmhouse.TenjiPlayer,Malicious,0.0
+eSpace Product,com.hoperun.activity,Malicious,0.0
+Novak ESC Track guide,cz.teamnovak.droid,Malicious,0.0
+Rabtor Clock Widget Full,upper.duper.widget.rabtor.full,Malicious,0.0
+Army FlashCards 5,org.me.flashcardsv4,Malicious,0.0
+Length Conversion,org.and.calc,Malicious,0.0
+Hack Me If You Can (easy),de.bulling.hackme.easy,Malicious,0.0
+Easily Hypnotize Anyone,com.ptajmarketing.Hypnotizeyourf,Malicious,0.0
+Smart Taskbar Pro key,com.smart.taskbar.key,Malicious,0.0
+Catch a Tiger,com.eenymeeny,Malicious,0.0
+Tray notes,ru.human.notification,Malicious,0.0
+alOBD 96-01 Subaru 2.5 Mode$06,com.al.obd2.content.C,Malicious,0.0
+Horsepower Calculator,com.mtar.horsepower1,Malicious,0.0
+Usage Timelines Pro,com.als.usagetimelines.pro,Malicious,0.0
+"WalkMeter:PaceCounter,Distance",com.ninesoft.pedometer,Malicious,0.0
+Shorcut,fr.migo.kit.plugin.shortcut,Malicious,0.0
+Adobe Flash Player 11,com.adobe.flashplayer,Malicious,0.0
+IAFF Foundation Premium Key,procalpremium.procal.com,Malicious,0.0
+Gears (ES1/cupcake+),com.jeffboody.GearsES1cupcake,Malicious,0.0
+Bicycle Calculator (BikeCalc),de.galle.android.bikecalc,Malicious,0.0
+RC-Heli-Gear-Ratio,de.jaspis.rc_heli.gear_ratio,Malicious,0.0
+KickBack,com.google.android.marvin.kickback,Malicious,0.0
+Stock Trading Calculator,stsolution.stocktradingcalculator,Malicious,0.0
+Simple Task Manager Plus,com.grprado.android.stmp,Malicious,0.0

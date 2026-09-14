@@ -1,0 +1,13 @@
+WeightScheme,Classifier,Accuracy,Precision,Recall,F1,ROC-AUC
+Garrett,Decision Tree,0.7629,0.8662,0.7125,0.7819,0.8507
+Garrett,Random Forest,0.7703,0.9042,0.6878,0.7812,0.8632
+Garrett,AdaBoost,0.726,0.7542,0.8019,0.7773,0.8343
+Garrett,SVM,0.7252,0.8131,0.7001,0.7524,0.8151
+Borda,Decision Tree,0.7473,0.8945,0.6534,0.7552,0.8444
+Borda,Random Forest,0.7752,0.9187,0.6836,0.7839,0.8641
+Borda,AdaBoost,0.7268,0.7613,0.7895,0.7752,0.836
+Borda,SVM,0.7285,0.8322,0.6823,0.7498,0.8206
+Combined,Decision Tree,0.7605,0.902,0.6713,0.7697,0.8502
+Combined,Random Forest,0.7834,0.9012,0.7153,0.7975,0.8703
+Combined,AdaBoost,0.7441,0.763,0.8281,0.7942,0.8525
+Combined,SVM,0.7252,0.8121,0.7015,0.7528,0.8102
