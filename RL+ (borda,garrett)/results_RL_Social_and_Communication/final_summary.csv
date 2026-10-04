@@ -1,2 +1,0 @@
-Category,NumApps,BenignCount,MaliciousCount,TopPermissions,SelectedAlpha,SelectedBeta,SelectedGamma,NumAssociationRules,NumMaliciousRules,RL_Accuracy,RL_Precision,RL_Recall,RL_F1,AvgPrivacyRisk,AvgUtility,PermissionAllowRate
-Social & Communication,1502,645,857,Location;Internet;Storage;Camera;PhoneState;Microphone;Bluetooth;Calendar;Contacts;SMS;CallLogs;ReadPhoneNumbers,0.6,0.25,0.15,2,2,0.7212389380530974,0.75,0.7674418604651163,0.7586206896551724,0.5419715563793426,0.6137192702793999,0.8936170212765957
