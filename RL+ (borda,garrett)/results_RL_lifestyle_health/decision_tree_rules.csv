@@ -1,0 +1,14 @@
+PredictedClass,RuleNumber,ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,TrainingBenign,MaliciousProbability,Lift,ExcessRisk,ValidationSupport,ValidationMalicious,ValidationBenign,ValidationMaliciousRate
+1,1,NOT Location AND NOT Internet AND NOT Storage,(),"('Location', 'Internet', 'Storage')",1129,902,227,0.7984084880636605,1.0126331475575954,0.047083338887185744,226,180,46,0.7964601769911505
+1,2,NOT Location AND NOT Internet AND Storage,"('Storage',)","('Location', 'Internet')",94,76,18,0.8020833333333334,1.0172940074906367,0.06445421552205485,12,7,5,0.5833333333333334
+0,3,NOT Location AND Internet AND NOT Storage AND NOT SMS,"('Internet',)","('Location', 'Storage', 'SMS')",1473,1088,385,0.7383050847457627,0.9364031232146258,0.0,340,249,91,0.7323529411764705
+1,4,NOT Location AND Internet AND NOT Storage AND SMS,"('Internet', 'SMS')","('Location', 'Storage')",58,51,7,0.8666666666666667,1.0992059925093633,0.36973757677275276,11,11,0,1.0
+0,5,NOT Location AND Internet AND Storage AND NOT PhoneState,"('Internet', 'Storage')","('Location', 'PhoneState')",363,236,127,0.6493150684931507,0.8235357857472679,0.0,86,53,33,0.6162790697674418
+0,6,NOT Location AND Internet AND Storage AND PhoneState,"('Internet', 'Storage', 'PhoneState')","('Location',)",269,178,91,0.6605166051660517,0.8377428583274598,0.0,53,38,15,0.7169811320754716
+1,7,Location AND NOT PhoneState AND NOT Camera AND NOT Contacts,"('Location',)","('PhoneState', 'Camera', 'Contacts')",959,866,93,0.9021852237252862,1.1442546972371945,0.5376326655825087,206,187,19,0.9077669902912622
+1,8,Location AND NOT PhoneState AND NOT Camera AND Contacts,"('Location', 'Contacts')","('PhoneState', 'Camera')",104,90,14,0.8584905660377359,1.0888361246555014,0.3310894093107046,17,16,1,0.9411764705882353
+1,9,Location AND NOT PhoneState AND Camera,"('Location', 'Camera')","('PhoneState',)",163,142,21,0.8666666666666667,1.0992059925093633,0.36973757677275276,32,30,2,0.9375
+0,10,Location AND PhoneState AND NOT SMS AND NOT Contacts,"('Location', 'PhoneState')","('SMS', 'Contacts')",729,564,165,0.7729138166894665,0.9802978834596289,0.0,161,125,36,0.7763975155279503
+0,11,Location AND PhoneState AND NOT SMS AND Contacts,"('Location', 'PhoneState', 'Contacts')","('SMS',)",108,80,28,0.7363636363636363,0.9339407558733401,0.0,21,19,2,0.9047619047619048
+1,12,Location AND PhoneState AND SMS AND NOT Bluetooth,"('Location', 'PhoneState', 'SMS')","('Bluetooth',)",116,99,17,0.847457627118644,1.0748428870691296,0.2789370581722168,28,22,6,0.7857142857142857
+1,13,Location AND PhoneState AND SMS AND Bluetooth,"('Location', 'PhoneState', 'SMS', 'Bluetooth')",(),79,78,1,0.9753086419753086,1.2369981966985713,0.8832847364393986,17,17,0,1.0

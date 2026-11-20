@@ -1,0 +1,6 @@
+PredictedClass,RuleNumber,ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,TrainingBenign,MaliciousProbability,Lift,ExcessRisk,ValidationSupport,ValidationMalicious,ValidationBenign,ValidationMaliciousRate
+1,1,NOT Internet,(),"('Internet',)",488,412,76,0.8428571428571429,1.2411900156581008,0.5103488598713701,110,85,25,0.7727272727272727
+0,2,Internet AND NOT Storage AND NOT PhoneState,"('Internet',)","('Storage', 'PhoneState')",727,431,296,0.5925925925925926,0.8726508584664613,0.0,158,88,70,0.5569620253164557
+0,3,Internet AND NOT Storage AND PhoneState,"('Internet', 'PhoneState')","('Storage',)",126,66,60,0.5234375,0.7708131850419084,0.0,29,16,13,0.5517241379310345
+0,4,Internet AND Storage AND NOT PhoneState,"('Internet', 'Storage')","('PhoneState',)",398,247,151,0.62,0.9130109606705351,0.0,84,62,22,0.7380952380952381
+1,5,Internet AND Storage AND PhoneState,"('Internet', 'Storage', 'PhoneState')",(),545,395,150,0.7239488117001828,1.0660858065268972,0.13983504218719978,109,82,27,0.7522935779816514

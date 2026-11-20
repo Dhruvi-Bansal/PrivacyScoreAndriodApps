@@ -1,0 +1,1045 @@
+{
+ "key": "productivity_tools",
+ "category": "Productivity & Tools",
+ "genres": [
+  "Tools",
+  "Business",
+  "Finance",
+  "Productivity",
+  "Libraries & Demo"
+ ],
+ "rl_features": [
+  "SMS",
+  "Bluetooth",
+  "Contacts",
+  "Calendar",
+  "Internet",
+  "PhoneState",
+  "Camera",
+  "Microphone",
+  "Storage",
+  "Location",
+  "CallLogs",
+  "ReadPhoneNumbers"
+ ],
+ "permission_names": [
+  "Camera",
+  "Location",
+  "Contacts",
+  "Microphone",
+  "Storage",
+  "SMS",
+  "CallLogs",
+  "Bluetooth",
+  "Calendar",
+  "PhoneState",
+  "Internet",
+  "ReadPhoneNumbers"
+ ],
+ "permission_column_map": {
+  "Camera": [
+   "Hardware controls : take pictures and videos (D)"
+  ],
+  "Location": [
+   "Your location : coarse (network-based) location (D)",
+   "Your location : fine (GPS) location (D)",
+   "Default : coarse (network-based) location (S)"
+  ],
+  "Contacts": [
+   "Your personal information : read contact data (D)",
+   "Your personal information : write contact data (D)",
+   "Default : write contact data (S)",
+   "Your accounts : contacts data in Google accounts (D)"
+  ],
+  "Microphone": [
+   "Hardware controls : record audio (D)"
+  ],
+  "Storage": [
+   "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+   "Default : modify/delete USB storage contents modify/delete SD card contents (S)"
+  ],
+  "SMS": [
+   "Services that cost you money : send SMS messages (D)",
+   "Your messages : edit SMS or MMS (D)",
+   "Your messages : read SMS or MMS (D)",
+   "Your messages : receive SMS (D)",
+   "Your messages : receive MMS (D)",
+   "Your messages : send SMS-received broadcast (S)"
+  ],
+  "CallLogs": [],
+  "Bluetooth": [
+   "Network communication : create Bluetooth connections (D)",
+   "System tools : bluetooth administration (D)"
+  ],
+  "Calendar": [
+   "Your personal information : add or modify calendar events and send email to guests (D)",
+   "Your personal information : read calendar events (D)"
+  ],
+  "PhoneState": [
+   "Default : read phone state and identity (S)",
+   "Phone calls : read phone state and identity (D)"
+  ],
+  "Internet": [
+   "Default : full Internet access (S)",
+   "Network communication : full Internet access (D)"
+  ],
+  "ReadPhoneNumbers": []
+ },
+ "representative_raw": {
+  "Camera": "Hardware controls : take pictures and videos (D)",
+  "Location": "Your location : fine (GPS) location (D)",
+  "Contacts": "Your personal information : read contact data (D)",
+  "Microphone": "Hardware controls : record audio (D)",
+  "Storage": "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+  "SMS": "Services that cost you money : send SMS messages (D)",
+  "Bluetooth": "Network communication : create Bluetooth connections (D)",
+  "Calendar": "Your personal information : read calendar events (D)",
+  "PhoneState": "Phone calls : read phone state and identity (D)",
+  "Internet": "Network communication : full Internet access (D)"
+ },
+ "raw_permission_columns": [
+  "Default : Access DRM content. (S)",
+  "Default : Access Email provider data (S)",
+  "Default : Access all system downloads (S)",
+  "Default : Access download manager. (S)",
+  "Default : Advanced download manager functions. (S)",
+  "Default : Audio File Access (S)",
+  "Default : Install DRM content. (S)",
+  "Default : Modify Google service configuration (S)",
+  "Default : Modify Google settings (S)",
+  "Default : Move application resources (S)",
+  "Default : Read Google settings (S)",
+  "Default : Send download notifications. (S)",
+  "Default : Voice Search Shortcuts (S)",
+  "Default : access SurfaceFlinger (S)",
+  "Default : access checkin properties (S)",
+  "Default : access the cache filesystem (S)",
+  "Default : access to passwords for Google accounts (S)",
+  "Default : act as an account authenticator (S)",
+  "Default : bind to a wallpaper (S)",
+  "Default : bind to an input method (S)",
+  "Default : change screen orientation (S)",
+  "Default : coarse (network-based) location (S)",
+  "Default : control location update notifications (S)",
+  "Default : control system backup and restore (S)",
+  "Default : delete applications (S)",
+  "Default : delete other applications' caches (S)",
+  "Default : delete other applications' data (S)",
+  "Default : directly call any phone numbers (S)",
+  "Default : directly install applications (S)",
+  "Default : disable or modify status bar (S)",
+  "Default : discover known accounts (S)",
+  "Default : display unauthorized windows (S)",
+  "Default : enable or disable application components (S)",
+  "Default : force application to close (S)",
+  "Default : force device reboot (S)",
+  "Default : full Internet access (S)",
+  "Default : interact with a device admin (S)",
+  "Default : manage application tokens (S)",
+  "Default : mock location sources for testing (S)",
+  "Default : modify battery statistics (S)",
+  "Default : modify secure system settings (S)",
+  "Default : modify the Google services map (S)",
+  "Default : modify/delete USB storage contents modify/delete SD card contents (S)",
+  "Default : monitor and control all application launching (S)",
+  "Default : partial shutdown (S)",
+  "Default : permanently disable device (S)",
+  "Default : permission to install a location provider (S)",
+  "Default : power device on or off (S)",
+  "Default : press keys and control buttons (S)",
+  "Default : prevent app switches (S)",
+  "Default : read frame buffer (S)",
+  "Default : read instant messages (S)",
+  "Default : read phone state and identity (S)",
+  "Default : record what you type and actions you take (S)",
+  "Default : reset system to factory defaults (S)",
+  "Default : run in factory test mode (S)",
+  "Default : set time (S)",
+  "Default : set wallpaper size hints (S)",
+  "Default : start IM service (S)",
+  "Default : update component usage statistics (S)",
+  "Default : write contact data (S)",
+  "Default : write instant messages (S)",
+  "Development tools : enable application debugging (D)",
+  "Development tools : limit number of running processes (D)",
+  "Development tools : make all background applications close (D)",
+  "Development tools : send Linux signals to applications (D)",
+  "Hardware controls : change your audio settings (D)",
+  "Hardware controls : control flashlight (S)",
+  "Hardware controls : control vibrator (S)",
+  "Hardware controls : record audio (D)",
+  "Hardware controls : take pictures and videos (D)",
+  "Hardware controls : test hardware (S)",
+  "Network communication : Broadcast data messages to applications. (S)",
+  "Network communication : control Near Field Communication (D)",
+  "Network communication : create Bluetooth connections (D)",
+  "Network communication : download files without notification (S)",
+  "Network communication : full Internet access (D)",
+  "Network communication : make/receive Internet calls (D)",
+  "Network communication : receive data from Internet (S)",
+  "Network communication : view Wi-Fi state (S)",
+  "Network communication : view network state (S)",
+  "Phone calls : intercept outgoing calls (D)",
+  "Phone calls : modify phone state (S)",
+  "Phone calls : read phone state and identity (D)",
+  "Services that cost you money : directly call phone numbers (D)",
+  "Services that cost you money : send SMS messages (D)",
+  "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+  "System tools : allow Wi-Fi Multicast reception (D)",
+  "System tools : automatically start at boot (S)",
+  "System tools : bluetooth administration (D)",
+  "System tools : change Wi-Fi state (D)",
+  "System tools : change background data usage setting (S)",
+  "System tools : change network connectivity (D)",
+  "System tools : change your UI settings (D)",
+  "System tools : delete all application cache data (D)",
+  "System tools : disable keylock (D)",
+  "System tools : display system-level alerts (D)",
+  "System tools : expand/collapse status bar (S)",
+  "System tools : force stop other applications (S)",
+  "System tools : format external storage (D)",
+  "System tools : kill background processes (S)",
+  "System tools : make application always run (D)",
+  "System tools : measure application storage space (S)",
+  "System tools : modify global animation speed (D)",
+  "System tools : modify global system settings (D)",
+  "System tools : mount and unmount filesystems (D)",
+  "System tools : prevent device from sleeping (D)",
+  "System tools : read subscribed feeds (S)",
+  "System tools : read sync settings (S)",
+  "System tools : read sync statistics (S)",
+  "System tools : read/write to resources owned by diag (S)",
+  "System tools : reorder running applications (D)",
+  "System tools : retrieve running applications (D)",
+  "System tools : send package removed broadcast (S)",
+  "System tools : send sticky broadcast (S)",
+  "System tools : set preferred applications (S)",
+  "System tools : set time zone (D)",
+  "System tools : set wallpaper (S)",
+  "System tools : set wallpaper size hints (S)",
+  "System tools : write Access Point Name settings (D)",
+  "System tools : write subscribed feeds (D)",
+  "System tools : write sync settings (D)",
+  "Your accounts : Blogger (D)",
+  "Your accounts : Google App Engine (D)",
+  "Your accounts : Google Docs (D)",
+  "Your accounts : Google Finance (D)",
+  "Your accounts : Google Maps (D)",
+  "Your accounts : Google Spreadsheets (D)",
+  "Your accounts : Google Voice (D)",
+  "Your accounts : Google mail (D)",
+  "Your accounts : Picasa Web Albums (D)",
+  "Your accounts : YouTube (D)",
+  "Your accounts : YouTube usernames (D)",
+  "Your accounts : access all Google services (S)",
+  "Your accounts : access other Google services (D)",
+  "Your accounts : act as an account authenticator (D)",
+  "Your accounts : act as the AccountManagerService (S)",
+  "Your accounts : contacts data in Google accounts (D)",
+  "Your accounts : discover known accounts (S)",
+  "Your accounts : manage the accounts list (D)",
+  "Your accounts : read Google service configuration (S)",
+  "Your accounts : use the authentication credentials of an account (D)",
+  "Your accounts : view configured accounts (S)",
+  "Your location : access extra location provider commands (S)",
+  "Your location : coarse (network-based) location (D)",
+  "Your location : fine (GPS) location (D)",
+  "Your location : mock location sources for testing (D)",
+  "Your messages : Read Email attachments (D)",
+  "Your messages : Send Gmail (S)",
+  "Your messages : edit SMS or MMS (D)",
+  "Your messages : modify Gmail (D)",
+  "Your messages : read Gmail (D)",
+  "Your messages : read Gmail attachment previews (D)",
+  "Your messages : read SMS or MMS (D)",
+  "Your messages : read instant messages (D)",
+  "Your messages : receive MMS (D)",
+  "Your messages : receive SMS (D)",
+  "Your messages : receive WAP (D)",
+  "Your messages : send SMS-received broadcast (S)",
+  "Your messages : send WAP-PUSH-received broadcast (S)",
+  "Your messages : write instant messages (D)",
+  "Your personal information : add or modify calendar events and send email to guests (D)",
+  "Your personal information : choose widgets (S)",
+  "Your personal information : read Browser's history and bookmarks (D)",
+  "Your personal information : read calendar events (D)",
+  "Your personal information : read contact data (D)",
+  "Your personal information : read sensitive log data (D)",
+  "Your personal information : read user defined dictionary (D)",
+  "Your personal information : retrieve system internal state (S)",
+  "Your personal information : set alarm in alarm clock (S)",
+  "Your personal information : write Browser's history and bookmarks (D)",
+  "Your personal information : write contact data (D)",
+  "Your personal information : write to user defined dictionary (S)"
+ ],
+ "clf_permission_features": [
+  "Default : control location update notifications (S)",
+  "Default : directly install applications (S)",
+  "Default : modify battery statistics (S)",
+  "Default : modify secure system settings (S)",
+  "Default : power device on or off (S)",
+  "Hardware controls : change your audio settings (D)",
+  "Hardware controls : control flashlight (S)",
+  "Hardware controls : control vibrator (S)",
+  "Hardware controls : record audio (D)",
+  "Hardware controls : take pictures and videos (D)",
+  "Network communication : create Bluetooth connections (D)",
+  "Network communication : full Internet access (D)",
+  "Network communication : receive data from Internet (S)",
+  "Network communication : view Wi-Fi state (S)",
+  "Network communication : view network state (S)",
+  "Phone calls : intercept outgoing calls (D)",
+  "Phone calls : modify phone state (S)",
+  "Phone calls : read phone state and identity (D)",
+  "Services that cost you money : directly call phone numbers (D)",
+  "Services that cost you money : send SMS messages (D)",
+  "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+  "System tools : automatically start at boot (S)",
+  "System tools : bluetooth administration (D)",
+  "System tools : change Wi-Fi state (D)",
+  "System tools : change network connectivity (D)",
+  "System tools : change your UI settings (D)",
+  "System tools : delete all application cache data (D)",
+  "System tools : disable keylock (D)",
+  "System tools : display system-level alerts (D)",
+  "System tools : kill background processes (S)",
+  "System tools : make application always run (D)",
+  "System tools : measure application storage space (S)",
+  "System tools : modify global system settings (D)",
+  "System tools : mount and unmount filesystems (D)",
+  "System tools : prevent device from sleeping (D)",
+  "System tools : read sync settings (S)",
+  "System tools : read sync statistics (S)",
+  "System tools : retrieve running applications (D)",
+  "System tools : send sticky broadcast (S)",
+  "System tools : set wallpaper (S)",
+  "System tools : write Access Point Name settings (D)",
+  "System tools : write sync settings (D)",
+  "Your accounts : act as an account authenticator (D)",
+  "Your accounts : act as the AccountManagerService (S)",
+  "Your accounts : discover known accounts (S)",
+  "Your accounts : manage the accounts list (D)",
+  "Your accounts : use the authentication credentials of an account (D)",
+  "Your accounts : view configured accounts (S)",
+  "Your location : access extra location provider commands (S)",
+  "Your location : coarse (network-based) location (D)",
+  "Your location : fine (GPS) location (D)",
+  "Your location : mock location sources for testing (D)",
+  "Your messages : edit SMS or MMS (D)",
+  "Your messages : read Gmail (D)",
+  "Your messages : read SMS or MMS (D)",
+  "Your messages : receive MMS (D)",
+  "Your messages : receive SMS (D)",
+  "Your personal information : add or modify calendar events and send email to guests (D)",
+  "Your personal information : read Browser's history and bookmarks (D)",
+  "Your personal information : read calendar events (D)",
+  "Your personal information : read contact data (D)",
+  "Your personal information : read sensitive log data (D)",
+  "Your personal information : read user defined dictionary (D)",
+  "Your personal information : write Browser's history and bookmarks (D)",
+  "Your personal information : write contact data (D)",
+  "Your personal information : write to user defined dictionary (S)"
+ ],
+ "metadata_features": [
+  "Number of ratings",
+  "Dangerous permissions count",
+  "Safe permissions count",
+  "Price",
+  "Rating",
+  "PermissionCount",
+  "DangerousToSafeRatio",
+  "LogNumRatings",
+  "DescriptionLength",
+  "IsPaid",
+  "Genre_Tools",
+  "Genre_Business",
+  "Genre_Finance",
+  "Genre_Productivity",
+  "Genre_Libraries & Demo",
+  "DescriptionTextRisk",
+  "DescriptionCharTextRisk",
+  "PackageTextRisk"
+ ],
+ "genre_features": [
+  "Genre_Tools",
+  "Genre_Business",
+  "Genre_Finance",
+  "Genre_Productivity",
+  "Genre_Libraries & Demo"
+ ],
+ "text_feature_order": [
+  "DescriptionTextRisk",
+  "DescriptionCharTextRisk",
+  "PackageTextRisk"
+ ],
+ "weight_map": {
+  "SMS": 0.1215871860211139,
+  "Bluetooth": 0.1082209134471353,
+  "Contacts": 0.1080691069498172,
+  "Calendar": 0.1054128708748535,
+  "Internet": 0.0974016165503824,
+  "PhoneState": 0.0920465983008749,
+  "Camera": 0.0800297168141682,
+  "Microphone": 0.0800297168141682,
+  "Storage": 0.0761758961492507,
+  "Location": 0.0760240896519326,
+  "CallLogs": 0.0275011442131514,
+  "ReadPhoneNumbers": 0.0275011442131514
+ },
+ "utility_map": {
+  "SMS": 0.08654453569172457,
+  "Bluetooth": 0.043588123815540114,
+  "Contacts": 0.16929879974731524,
+  "Calendar": 0.029690461149715727,
+  "Internet": 1.0,
+  "PhoneState": 0.47631080227416295,
+  "Camera": 0.1257106759317751,
+  "Microphone": 0.039797852179406186,
+  "Storage": 0.5451674036639292,
+  "Location": 0.3727100442198358,
+  "CallLogs": 0.0,
+  "ReadPhoneNumbers": 0.0
+ },
+ "risk_bin_edges": [
+  0.10248769045285998,
+  0.31563250728045006,
+  0.7030937743492532,
+  0.9510113127593405
+ ],
+ "rules": [
+  {
+   "ConditionsText": "Contacts AND NOT Location AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 61,
+   "TrainingMalicious": 50,
+   "MaliciousProbability": 0.8095238095238095,
+   "Lift": 1.3383189843864,
+   "ExcessRisk": 0.5179269518597118,
+   "BinomialPValue": 0.00027105141102348854,
+   "ValidationSupport": 15,
+   "ValidationMaliciousRate": 0.9333333333333333,
+   "RuleNumber": "I1"
+  },
+  {
+   "ConditionsText": "NOT Location AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 61,
+   "TrainingMalicious": 50,
+   "MaliciousProbability": 0.8095238095238095,
+   "Lift": 1.3383189843864,
+   "ExcessRisk": 0.5179269518597118,
+   "BinomialPValue": 0.00027105141102348854,
+   "ValidationSupport": 15,
+   "ValidationMaliciousRate": 0.9333333333333333,
+   "RuleNumber": "I2"
+  },
+  {
+   "ConditionsText": "Contacts AND NOT Location AND PhoneState AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "PhoneState"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 73,
+   "TrainingMalicious": 59,
+   "MaliciousProbability": 0.8,
+   "Lift": 1.3225740551583247,
+   "ExcessRisk": 0.4938232994526975,
+   "BinomialPValue": 0.00016692871393526139,
+   "ValidationSupport": 20,
+   "ValidationMaliciousRate": 0.95,
+   "RuleNumber": "I3"
+  },
+  {
+   "ConditionsText": "NOT Bluetooth AND NOT Microphone AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Bluetooth",
+    "Microphone",
+    "Storage"
+   ],
+   "TrainingApps": 76,
+   "TrainingMalicious": 61,
+   "MaliciousProbability": 0.7948717948717948,
+   "Lift": 1.3140960163432072,
+   "ExcessRisk": 0.4808444096950741,
+   "BinomialPValue": 0.00018906547394534579,
+   "ValidationSupport": 18,
+   "ValidationMaliciousRate": 0.8333333333333334,
+   "RuleNumber": "I4"
+  },
+  {
+   "ConditionsText": "Internet AND NOT Location AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 66,
+   "TrainingMalicious": 53,
+   "MaliciousProbability": 0.7941176470588235,
+   "Lift": 1.3128492459292194,
+   "ExcessRisk": 0.4789357494366001,
+   "BinomialPValue": 0.0004837274265994169,
+   "ValidationSupport": 16,
+   "ValidationMaliciousRate": 0.875,
+   "RuleNumber": "I5"
+  },
+  {
+   "ConditionsText": "Internet AND NOT Location AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 56,
+   "TrainingMalicious": 45,
+   "MaliciousProbability": 0.7931034482758621,
+   "Lift": 1.311172554682822,
+   "ExcessRisk": 0.4763689304683077,
+   "BinomialPValue": 0.0012497963994875527,
+   "ValidationSupport": 14,
+   "ValidationMaliciousRate": 0.9285714285714286,
+   "RuleNumber": "I6"
+  },
+  {
+   "ConditionsText": "PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 85,
+   "TrainingMalicious": 68,
+   "MaliciousProbability": 0.7931034482758621,
+   "Lift": 1.311172554682822,
+   "ExcessRisk": 0.4763689304683077,
+   "BinomialPValue": 9.950898901853363e-05,
+   "ValidationSupport": 21,
+   "ValidationMaliciousRate": 0.8571428571428571,
+   "RuleNumber": "I7"
+  },
+  {
+   "ConditionsText": "Internet AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 79,
+   "TrainingMalicious": 63,
+   "MaliciousProbability": 0.7901234567901234,
+   "Lift": 1.3062459804032835,
+   "ExcessRisk": 0.46882691917875635,
+   "BinomialPValue": 0.00021142359573499207,
+   "ValidationSupport": 20,
+   "ValidationMaliciousRate": 0.85,
+   "RuleNumber": "I8"
+  },
+  {
+   "ConditionsText": "Contacts AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 83,
+   "TrainingMalicious": 66,
+   "MaliciousProbability": 0.788235294117647,
+   "Lift": 1.303124436700114,
+   "ExcessRisk": 0.464048199420503,
+   "BinomialPValue": 0.00017634942008524506,
+   "ValidationSupport": 19,
+   "ValidationMaliciousRate": 0.8421052631578947,
+   "RuleNumber": "I9"
+  },
+  {
+   "ConditionsText": "Contacts AND Internet AND NOT Location AND PhoneState AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet",
+    "PhoneState"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 67,
+   "TrainingMalicious": 53,
+   "MaliciousProbability": 0.782608695652174,
+   "Lift": 1.2938224452635785,
+   "ExcessRisk": 0.4498079341877146,
+   "BinomialPValue": 0.0009530988485820969,
+   "ValidationSupport": 17,
+   "ValidationMaliciousRate": 0.9411764705882353,
+   "RuleNumber": "I10"
+  },
+  {
+   "ConditionsText": "NOT Bluetooth AND Internet AND NOT Location AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Bluetooth",
+    "Location",
+    "Storage"
+   ],
+   "TrainingApps": 62,
+   "TrainingMalicious": 49,
+   "MaliciousProbability": 0.78125,
+   "Lift": 1.2915762257405514,
+   "ExcessRisk": 0.4463692337763877,
+   "BinomialPValue": 0.0015291152520078462,
+   "ValidationSupport": 15,
+   "ValidationMaliciousRate": 0.8666666666666667,
+   "RuleNumber": "I11"
+  },
+  {
+   "ConditionsText": "NOT Calendar AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Calendar",
+    "Storage"
+   ],
+   "TrainingApps": 79,
+   "TrainingMalicious": 62,
+   "MaliciousProbability": 0.7777777777777778,
+   "Lift": 1.2858358869594824,
+   "ExcessRisk": 0.4375814438363304,
+   "BinomialPValue": 0.0005354537837158665,
+   "ValidationSupport": 19,
+   "ValidationMaliciousRate": 0.8947368421052632,
+   "RuleNumber": "I12"
+  },
+  {
+   "ConditionsText": "Contacts AND Internet AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 74,
+   "TrainingMalicious": 58,
+   "MaliciousProbability": 0.7763157894736842,
+   "Lift": 1.2834189022095586,
+   "ExcessRisk": 0.43388132175630617,
+   "BinomialPValue": 0.0008531161529667659,
+   "ValidationSupport": 19,
+   "ValidationMaliciousRate": 0.8421052631578947,
+   "RuleNumber": "I13"
+  },
+  {
+   "ConditionsText": "NOT Calendar AND Internet AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Calendar",
+    "Storage"
+   ],
+   "TrainingApps": 73,
+   "TrainingMalicious": 57,
+   "MaliciousProbability": 0.7733333333333333,
+   "Lift": 1.278488253319714,
+   "ExcessRisk": 0.426333072713057,
+   "BinomialPValue": 0.0011170640701596705,
+   "ValidationSupport": 18,
+   "ValidationMaliciousRate": 0.8888888888888888,
+   "RuleNumber": "I14"
+  },
+  {
+   "ConditionsText": "Contacts AND Internet AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet",
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 64,
+   "TrainingMalicious": 50,
+   "MaliciousProbability": 0.7727272727272727,
+   "Lift": 1.2774863032779273,
+   "ExcessRisk": 0.42479920392351966,
+   "BinomialPValue": 0.0021770849556912793,
+   "ValidationSupport": 18,
+   "ValidationMaliciousRate": 0.8333333333333334,
+   "RuleNumber": "I15"
+  },
+  {
+   "ConditionsText": "Contacts AND PhoneState AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "PhoneState",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Storage"
+   ],
+   "TrainingApps": 68,
+   "TrainingMalicious": 53,
+   "MaliciousProbability": 0.7714285714285715,
+   "Lift": 1.2753392674740989,
+   "ExcessRisk": 0.42151234223165424,
+   "BinomialPValue": 0.0017814758491785715,
+   "ValidationSupport": 18,
+   "ValidationMaliciousRate": 0.8333333333333334,
+   "RuleNumber": "I16"
+  },
+  {
+   "ConditionsText": "NOT Calendar AND Internet AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Internet",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Calendar",
+    "Storage"
+   ],
+   "TrainingApps": 93,
+   "TrainingMalicious": 72,
+   "MaliciousProbability": 0.7684210526315789,
+   "Lift": 1.2703671845599698,
+   "ExcessRisk": 0.41390066252417573,
+   "BinomialPValue": 0.00041477694709203127,
+   "ValidationSupport": 20,
+   "ValidationMaliciousRate": 0.85,
+   "RuleNumber": "I17"
+  },
+  {
+   "ConditionsText": "Contacts AND Internet AND NOT Location AND NOT SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet"
+   ],
+   "NotRequestedConditions": [
+    "Location",
+    "SMS",
+    "Storage"
+   ],
+   "TrainingApps": 31,
+   "TrainingMalicious": 24,
+   "MaliciousProbability": 0.7575757575757576,
+   "Lift": 1.252437552233262,
+   "ExcessRisk": 0.3864524841850877,
+   "BinomialPValue": 0.03718129192395575,
+   "ValidationSupport": 7,
+   "ValidationMaliciousRate": 0.8571428571428571,
+   "RuleNumber": "I18"
+  },
+  {
+   "ConditionsText": "NOT Calendar AND Contacts AND Internet AND SMS AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet",
+    "SMS"
+   ],
+   "NotRequestedConditions": [
+    "Calendar",
+    "Storage"
+   ],
+   "TrainingApps": 67,
+   "TrainingMalicious": 51,
+   "MaliciousProbability": 0.7536231884057971,
+   "Lift": 1.2459030954390016,
+   "ExcessRisk": 0.37644899207940985,
+   "BinomialPValue": 0.0052299492811736775,
+   "ValidationSupport": 17,
+   "ValidationMaliciousRate": 0.8823529411764706,
+   "RuleNumber": "I19"
+  },
+  {
+   "ConditionsText": "NOT Calendar AND Contacts AND Internet AND PhoneState AND NOT Storage",
+   "GrantedConditions": [
+    "Contacts",
+    "Internet",
+    "PhoneState"
+   ],
+   "NotRequestedConditions": [
+    "Calendar",
+    "Storage"
+   ],
+   "TrainingApps": 88,
+   "TrainingMalicious": 64,
+   "MaliciousProbability": 0.7222222222222222,
+   "Lift": 1.1939904664623764,
+   "ExcessRisk": 0.29697680479541294,
+   "BinomialPValue": 0.01125999329640124,
+   "ValidationSupport": 20,
+   "ValidationMaliciousRate": 0.85,
+   "RuleNumber": "I20"
+  }
+ ],
+ "alpha": 0.8,
+ "beta": 0.3,
+ "gamma": 0.2,
+ "denial_cost": 0.5,
+ "threshold": 0.48,
+ "score_weights": {
+  "individual": 0.15,
+  "classifier": 0.7999999999999999,
+  "interaction": 0.05
+ },
+ "base_malicious_rate": 0.6048810627123881,
+ "risk_model_name": "SoftVotingEnsemble",
+ "test_metrics": {
+  "Accuracy": 0.8285302593659942,
+  "Precision": 0.8544600938967136,
+  "Recall": 0.8646080760095012,
+  "F1": 0.859504132231405,
+  "ROC_AUC": 0.9106305412718714,
+  "TestApps": 694
+ },
+ "examples": [
+  {
+   "app_name": "ColorNote Notepad Notes",
+   "package": "com.socialnmobile.dictapps.notepad.color.note",
+   "genre": "Productivity",
+   "description": "Color Note is a notepad app which give you a better note editing experience.<p>Color Note is a simple notepad app. It give you a quick and simple notepad editing experience when you write notes, memo, email, message, shopping list and todo list. Color Note makes taking a note easier than any other notepad and memo apps. <p>**Notice**<br>If you cannot find widget, please read below FAQ. It is not a bug.<p>**Features**<br>-Organize notes by color<br>-Sticky Note Widget<br>-Checklist for ToDo & Shopping list<br>-Organize your schedule in calendar<br>-Protect your notes by passcode <br> Password Lock note<br>-Secured backup notes to sd storage<br>-Supports online back up and sync. You can sync notes between phone and tablet.<br>-Reminder on status bar<br>-List/Grid View <br>-Search notes<br>-Notepad supports ColorDict Add-On<br>-Powerful Reminder : Time Alarm, All day, Repetition.(lunar calendar)<br>-Quick memo / notes<br>-Wiki link : [[Title]]<br>-Share notes via SMS, email, twitter<br>-Use color to categorize notes.<p>** Online backup and sync cloud service **<br>-Notes will be encrypted before uploading using the AES standard, which is the same encryption standard used by banks to secure customer data.<br>-It does not send any of your notes to server without your signing up.<p>*** About Permissions ***<br>-Internet Access : For online backup & sync<br>-Modify/delete SD card contents : For backup to sdcard<br>-Prevent phone from sleeping, control vibrator, automatically start at boot : For reminder<p>**FAQ**<br>Q : How do you put sticky notes on the home screen?<br>A : Goto home screen and long press empty space and choose widget, Color Note will be there for sticking on page. <p>Q : How come the widget and the alarm and remider functions don't work?<br>A : If the app is installed on the SD card, your widget, reminder and etc. will not work properly because Android doesn't support them! If you have already moved app to SD card, but you want those features, you have to move it back to device and reboot you phone. <p>Settings - Applications - Manage Applications - ColorNote - Move to Device <p>Q : Where is backed up notes data at sdcard?<br>A : /data/colornote on sdcard <p>Q : I had to reinstall color notes notepad and there is an automatic backed up notes data that was stored but it requires a password and I hadn't set one up in the past. How do I retrieve that information?<br>A : Try default password '0000' (numbers)<p>Q: I forgot my master password, how can I change it?<br>A: Menu -&gt; Settings -&gt; Master Password -&gt; Menu Button-&gt; Clear Password. You will lose current locked notes when you clear password!<p>** Product Description **<br>Color Note notepad features two basic note taking formats, a lined-paper styled text option and a traditional checklist option. Add as many as you want to your master list, which appears on the app's home screen each time the program opens. This list may be viewed in traditional ascending order, in a grid format, or by the color of the note.<p>- Taking a Note -<br>Serving as a simple word processing program, the text option allows for as many characters as you're willing to type with your device's virtual or physical keyboard. Once saved, you can edit, share, set a reminder, check off or delete the note through your device's menu button. When checking off a text note, the app places a slash through the list's title, a mark that shows on the main menu.<p>- Making a ToDo List -<br>In the checklist mode, you can add as many items as you'd like and move their order around with the up and down buttons activated in the edit mode. After the list is finished and saved, you may check, and uncheck, each line on your list (from grocery store items to household chores) with a quick tap that generates a line slash. If all items have been checked, the list's title is slashed as well.<p>When you're finished using the notepad, an automatic save command preserves your individual note before returning you to Color Note's home screen.<p>Keywords : Notebook, NotePad, Notes, Shopping List, ToDo List, ToDo, 2do, Calendar, Evernote, Task, Memo, Sticky Note,  Post It, notes, notepad, evernote, memo pad",
+   "related_apps": "{com.guardam.personalNotes, com.kodexo.notes, com.acj0.starnote, com.acj0.starnotedemo}",
+   "rating": 4.5,
+   "num_ratings": 104440.0,
+   "price": 0.0,
+   "permissions": [
+    "Hardware controls : control vibrator (S)",
+    "Network communication : full Internet access (D)",
+    "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+    "System tools : automatically start at boot (S)",
+    "System tools : prevent device from sleeping (D)"
+   ],
+   "true_label": 1,
+   "notebook": {
+    "privacy_score": 0.6877844897911729,
+    "malicious": true,
+    "allowed": "Internet;Storage",
+    "classifier_risk": 0.7258933852406806
+   }
+  },
+  {
+   "app_name": "SMS Backup",
+   "package": "cn.menue.smsbackup.international",
+   "genre": "Tools",
+   "description": "&quot;SMS Backup&quot; one touch to backup your messages!<p>SMS Backup is a FREE SMS backup/restore application with all the features you want.<br>When you need to re-install the phone system; repair or change the phone, or want to keep your messages private from others, this app is the perfect helper to you which provides the easiest way to backup and restore SMS data.<br>As long as backup is done by this app, even if you have deleted all the messages, you can still check them with this app.<br>You have two ways to backup. To SD card or to a private E-mail. (If you choose to backup to a private E-mail, please set your Gmail account in advance)<br>Application features:<br>* SMS backup<br>* Restore SMS. This app will automatically import the data to the original position.<br>* Two backup types: Backup to SD card or a private E-mail, you can choose the backup type on your own.<br>* View feature: you can check the backup messages on SD card, even if you have deleted all the messages, you can still check them with this app without restore.<br>* Private E-mail setting. You can set your own private E-mail if you want to backup by Email. The backup files will be sent to your designated E-mail address.<br>* Delete feature. You can delete the backup files on the SD card as you wish.<p>--- Feedback ---<br>If you have any issues or concerns with SMS backup, please send me an email and we will find a solution for this problem! Thanks! :)<br><a href=\"mailto:smsbackup.menue@gmail.com\" target=\"_blank\">smsbackup.menue@gmail.com</a><p>Keywords: free, backup, SMS backup, backup restore, one touch backup, SMS restore, Anonymous messages, hidden messages, backup to SD card, backup to E-mail, SMS backup, SMS backup and Restore, SMS, backup, restore",
+   "related_apps": "{com.smsbackupandroidtool.trial, in.pww.sms.backup.and.restore, com.sethdeckard.brewer, net.jacker.android}",
+   "rating": 4.5,
+   "num_ratings": 51.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Network communication : view Wi-Fi state (S)",
+    "Network communication : view network state (S)",
+    "Phone calls : read phone state and identity (D)",
+    "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+    "System tools : mount and unmount filesystems (D)",
+    "Your messages : edit SMS or MMS (D)",
+    "Your messages : read SMS or MMS (D)",
+    "Your personal information : read contact data (D)"
+   ],
+   "true_label": 1,
+   "notebook": {
+    "privacy_score": 0.848417494808101,
+    "malicious": true,
+    "allowed": "Internet;PhoneState;Storage",
+    "classifier_risk": 0.9239819297155164
+   }
+  },
+  {
+   "app_name": "english tour guide",
+   "package": "com.loveroid.zconversation",
+   "genre": "Productivity",
+   "description": "Tour In English country need this app.<br>For Korea people.<p>TTS must be installed in the Preference.<br>Tour In English country need this app.<br>For Korea people.",
+   "related_apps": "{com.autoenglish.wordplayer.leopark4_course118_demo, com.autoenglish.wordplayer.leopark4_course127_demo, wonju.english, com.autoenglish.wordplayer.leopark4_course133_demo}",
+   "rating": 4.1,
+   "num_ratings": 63.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Your location : coarse (network-based) location (D)",
+    "Your location : fine (GPS) location (D)"
+   ],
+   "true_label": 1,
+   "notebook": {
+    "privacy_score": 0.8725404491075559,
+    "malicious": true,
+    "allowed": "Internet;Location",
+    "classifier_risk": 0.9569553850358972
+   }
+  },
+  {
+   "app_name": "Battery Booster",
+   "package": "imoblife.batterybooster",
+   "genre": "Productivity",
+   "description": "Battery Booster - Boost Your Battery's Running Time and Max Battery Life<p>Battery Booster Ad-Free version is available in android market (0.99USD)! <p>*Airpush ads has been modified and will no longer appear on most areas. If you are still receiving the ads, please reboot your device to stop the ads*<p>Battery Booster fully supports honeycomb (android 3.x) tablets!<p>Battery Booster is a powerful battery boosting tool and power management application specially designed for Android devices. Based on system specifications, Battery Booster provides the most accurate information on your battery charge, which includes an auto-updating live chart visually tracking your battery usage, and the real-time battery capacity, temperature, voltage, etc. Battery Tweak, including Smart Battery Saver and convenient settings for managing Wifi & Bluetooth, can help to squeeze out the peak performance from your phone.<p>Features: <br>- Real-time battery status (capacity, temperature, voltage, and charging status, etc) monitor and battery usage tracking<br>- Homescreen widget support (Add to homescreen with Menu -&gt; Add -&gt; Widgets -&gt; Battery Booster)<br>- Shortcuts to WiFi/Bluetooth/Screen Brightness/Screen Timeout settings<br>- Real-time battery use monitor and management to save more power<br>- Battery Calibration Notification to maximize your battery life span<br>- Settings to automatically turn off WiFi/Bluetooth when device is locked.<br>- Settings to automatically turn on WiFi/Bluetooth when device is unlocked.<br>- Settings to automatically turn off WiFi/Bluetooth when your battery is low.<br>- Settings to enable beep and select beep tone/interval when your battery is low.<br>- Settings to enable beep and select beep tone/interval when your battery is full.<br>- Settings to enable beep and select beep tone/interval when your battery is overheated.<br>- Save more battery with built-in smart task manager (Based on Memory Booster - Android RAM Optimizer)<p>Keywords: Battery Booster, boost battery, power management, battery's running time, battery status, wifi, Bluetooth, widget, low battery, save battery, battery app, task manager, task killer, battery saver, honeycomb apps, tablet apps, honeycomb apps free download, tablet apps free download, honeycomb, android honeycomb, honeycomb applications, android 3.0, honeycomb download, tablet free apps, honeycomb free apps, 3.0, tablet app download, honeycomb app download",
+   "related_apps": "{androidcap.batterysaver, ch.renners.wifineversleeps, com.Sangodroid.BatteryBoosterFull, com.tomdryer.nobars}",
+   "rating": 4.0,
+   "num_ratings": 12147.0,
+   "price": 0.0,
+   "permissions": [
+    "Hardware controls : control vibrator (S)",
+    "Network communication : create Bluetooth connections (D)",
+    "Network communication : full Internet access (D)",
+    "Network communication : view Wi-Fi state (S)",
+    "Network communication : view network state (S)",
+    "Phone calls : read phone state and identity (D)",
+    "System tools : automatically start at boot (S)",
+    "System tools : bluetooth administration (D)",
+    "System tools : change Wi-Fi state (D)",
+    "System tools : kill background processes (S)",
+    "System tools : modify global system settings (D)",
+    "System tools : prevent device from sleeping (D)",
+    "System tools : retrieve running applications (D)",
+    "Your accounts : discover known accounts (S)",
+    "Your location : coarse (network-based) location (D)",
+    "Your location : fine (GPS) location (D)"
+   ],
+   "true_label": 1,
+   "notebook": {
+    "privacy_score": 0.43056724063115315,
+    "malicious": false,
+    "allowed": "Internet;Location;PhoneState",
+    "classifier_risk": 0.40174714576082343
+   }
+  },
+  {
+   "app_name": "Sexy girl anime version",
+   "package": "com.SuperPower.SexyGoWallpaper2000",
+   "genre": "Libraries & Demo",
+   "description": "sexy lips  chest  hot body???<p>Beautiful girl album: sexy, sexy ladies, beauty girl, beautiful, sexy women, Japanese supermodel, Asia (female), the Americas, Europe, (Spice Girls), (Japanese girls, Korean girls, British girls, Chinese girls French girl, Indian girl), big breasts, big ass girls, beautiful mini skirt, stockings legs, squeeze, hot body, model Gallery, Japanese dolls, sexy idol, Asian top model, fashion, girl! Sexy, cute, pure, underwear, stockings, breasts, breasts, milk burst, big, breast, nails, legs, bikini, swimwear, uniforms, hot springs, non-mainstream, models, stars, AV Actress ... inspire you unlimited imagination!<br>Permanent free<br>Add zoom in, hope you like my work",
+   "related_apps": "{alvin.wow.wallpaper1, com.openkava.spinpic, cc.wallpapersbase.NetGame}",
+   "rating": 4.4,
+   "num_ratings": 384.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Network communication : view Wi-Fi state (S)",
+    "Network communication : view network state (S)",
+    "Phone calls : read phone state and identity (D)",
+    "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+    "System tools : set wallpaper (S)",
+    "Your location : fine (GPS) location (D)"
+   ],
+   "true_label": 0,
+   "notebook": {
+    "privacy_score": 0.10974306662383386,
+    "malicious": false,
+    "allowed": "Internet;Location;PhoneState;Storage",
+    "classifier_risk": 0.005464629426088934
+   }
+  },
+  {
+   "app_name": "Cozi Family Organizer",
+   "package": "com.cozi.androidfree",
+   "genre": "Productivity",
+   "description": "Free shared calendar and lists. Voted #1 Practical App for Moms by Babble.<p>Cozi makes your phone the ultimate family organizer with a centralized calendar, shopping lists, to do lists and a family journal the whole family can share on the go.  <p>SHARED FAMILY CALENDAR<br>A centralized family calendar you can manage right from your phone. Add an appointment and it uploads to your Cozi account so everyone in the family can see it. Set reminders that are sent by text or email so no one misses soccer practice or an important event. <p>SHARED SHOPPING LISTS<br>Shared grocery lists the whole family can access from wherever they are. Retrieve them when you're at the store???easily cross off items and add new ones while you shop. No more coming home with everything but the one thing you needed.<p>SHARED TO DO LISTS<br>Create a shared to do list or an individual chore list. You'll have your to do items right there in your pocket to remind yourself. You can even email or text a list to a family member to remind them.<p>FAMILY JOURNAL<br>Jot down a special moment and add a photo all while you're on the move. Cozi's journal is designed especially for busy families, so it's quick and easy to keep favorite memories you don't want to forget.<p>WIDGETS<br>Home screen widgets give you quick access to your family calendar, shopping lists and to do lists. Choose from small and large widget sizes to customize your at-a-glance view.<p>PLUS<br>- Your Cozi calendar, shopping lists, to do lists and family journal are accessible from your mobile device as well as from any computer by visiting <a href=\"http://www.google.com/url?q=http://cozi.com&usg=AFQjCNEwG0oBw1TyrnmN97Qcozrcmxq-Vg\" target=\"_blank\">cozi.com</a>.<br>- No matter where or how you and your family access Cozi, you'll always be looking at the same information. <br>- The whole family shares one account that everyone can access using their own email address (as specified in Settings) and the shared family password.<br>- Cozi Family Organizer is available for all kinds of phones and tablets. Just search for &quot;Cozi&quot; in your favorite mobile app store.<p>RAVE REVIEWS<br>See why everyone from Family Circle to Parenting to Working Mother Magazine is raving about Cozi.<br>Voted #1 Productivity Android App for Moms ???Babble 2011<br>&quot;An online calendar we love.&quot; ???Parents Magazine<br>&quot;Cozi is, in short, ridiculously handy.&quot; ???PC World <br>&quot;Cozi just works.&quot; ???The Wall Street Journal<br>&quot;Incredibly helpful.&quot; ???Better Homes and Gardens<p>NOTE: If you experience any problems with your Cozi app, please don't hesitate to CONTACT US directly at <a href=\"http://www.google.com/url?q=http://cozi.com/support&usg=AFQjCNFswnS0aGlHE8fajkOjvaqpi73BCw\" target=\"_blank\">cozi.com/support</a>. We're unable to help if you only leave a comment on the Android Market. Our support team is top notch and we want to help you!",
+   "related_apps": "{com.pa.ready, com.mindbeach.android.choremaster, com.dotnetideas.chorechecklistlite, com.mindbeach.android.choremasterpro}",
+   "rating": 4.5,
+   "num_ratings": 2550.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Network communication : view network state (S)",
+    "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+    "Your location : coarse (network-based) location (D)"
+   ],
+   "true_label": 0,
+   "notebook": {
+    "privacy_score": 0.6728450642247279,
+    "malicious": true,
+    "allowed": "Internet;Location;Storage",
+    "classifier_risk": 0.7127525126050582
+   }
+  },
+  {
+   "app_name": "Altra Mobile Banking",
+   "package": "com.ifs.androidmobilebanking.fiid8121",
+   "genre": "Finance",
+   "description": "Free, secure Mobile Banking from Altra Federal Credit Union. <p>Features<br>??? Pay bills <br>??? Transfer funds <br>??? View account balances<p>Must be enrolled in Access 24 Online Banking/Bill Pay. <br>Visit <a href=\"http://www.google.com/url?q=http://www.altra.org&usg=AFQjCNHk1JzYX2wfGDnawRiLwFx9lm43xw\" target=\"_blank\">www.altra.org</a> and sign in to Access 24 Online Banking to set up free email or text alerts for account balances, payments due or any personal reminder.",
+   "related_apps": "{com.ifs.androidmobilebanking.fiid5207, com.softek.ofxclmobile.weststarcu, org.hiway.hiway_mobile, com.mshift.Beacon}",
+   "rating": 4.5,
+   "num_ratings": 26.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Services that cost you money : directly call phone numbers (D)",
+    "Your location : coarse (network-based) location (D)",
+    "Your location : fine (GPS) location (D)"
+   ],
+   "true_label": 0,
+   "notebook": {
+    "privacy_score": 0.2667690485520775,
+    "malicious": false,
+    "allowed": "Internet;Location",
+    "classifier_risk": 0.19974113434154916
+   }
+  },
+  {
+   "app_name": "Beauty Japan Korea Asia Girl",
+   "package": "com.mmwithandroid.w1",
+   "genre": "Libraries & Demo",
+   "description": "girls,bikini girls,Korean girls,hot<p>Album of Passion Sexy Girls,Real Sexys<br>Cute and sexy Passion girls photo browser!<br>We choose the most beautiful high-quality photos/wallpaper of pretty Passion girls from  photos meticulously.<br>Never miss this application!<br>Features:<br>*View hot sexy girls pictures<br>*Set as wallpaper<br>Keywords:sexy girls,bikini girls,Korean girls,hot babes,beauty,model,sexy idols",
+   "related_apps": "",
+   "rating": 4.8,
+   "num_ratings": 16.0,
+   "price": 0.0,
+   "permissions": [
+    "Network communication : full Internet access (D)",
+    "Network communication : view network state (S)",
+    "Phone calls : read phone state and identity (D)",
+    "Storage : modify/delete USB storage contents modify/delete SD card contents (D)",
+    "System tools : set wallpaper (S)"
+   ],
+   "true_label": 0,
+   "notebook": {
+    "privacy_score": 0.1131098875898213,
+    "malicious": false,
+    "allowed": "Internet;PhoneState;Storage",
+    "classifier_risk": 0.004847420692666642
+   }
+  }
+ ]
+}

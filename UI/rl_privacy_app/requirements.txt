@@ -1,0 +1,11 @@
+# Runtime (the API). Versions match the ones used to export the models: pickles need the same scikit-learn.
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+imbalanced-learn==0.12.4
+lightgbm==4.6.0
+scipy==1.13.1
+joblib==1.4.2
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+google-play-scraper==1.2.7

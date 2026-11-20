@@ -1,0 +1,7 @@
+PredictedClass,RuleNumber,ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,TrainingBenign,MaliciousProbability,Lift,ExcessRisk,ValidationSupport,ValidationMalicious,ValidationBenign,ValidationMaliciousRate
+0,1,NOT Contacts AND NOT Microphone AND NOT Internet,(),"('Contacts', 'Microphone', 'Internet')",110,65,45,0.5892857142857143,0.8971891171397208,0.0,17,8,9,0.47058823529411764
+1,2,NOT Contacts AND NOT Microphone AND Internet,"('Internet',)","('Contacts', 'Microphone')",752,571,181,0.7586206896551724,1.1550020818350428,0.29665314401622705,166,127,39,0.7650602409638554
+0,3,NOT Contacts AND Microphone,"('Microphone',)","('Contacts',)",58,27,31,0.4666666666666667,0.710501280643981,0.0,11,6,5,0.5454545454545454
+0,4,Contacts AND NOT PhoneState,"('Contacts',)","('PhoneState',)",96,37,59,0.3877551020408163,0.5903582069490804,0.0,22,10,12,0.45454545454545453
+0,5,Contacts AND PhoneState AND NOT Camera,"('Contacts', 'PhoneState')","('Camera',)",284,153,131,0.5384615384615384,0.8198091699738241,0.0,58,28,30,0.4827586206896552
+1,6,Contacts AND PhoneState AND Camera,"('Contacts', 'PhoneState', 'Camera')",(),87,58,29,0.6629213483146067,1.0092995720223485,0.017798130488150127,23,15,8,0.6521739130434783

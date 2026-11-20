@@ -1,0 +1,12 @@
+PredictedClass,RuleNumber,ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,TrainingBenign,MaliciousProbability,Lift,ExcessRisk,ValidationSupport,ValidationMalicious,ValidationBenign,ValidationMaliciousRate
+1,1,NOT Internet AND NOT Storage,(),"('Internet', 'Storage')",563,426,137,0.7557522123893805,1.3455675259715274,0.44278847338970095,123,99,24,0.8048780487804879
+1,2,NOT Internet AND Storage,"('Storage',)","('Internet',)",104,89,15,0.8490566037735849,1.5116899097621002,0.6556472381352815,19,14,5,0.7368421052631579
+0,3,Internet AND NOT PhoneState AND NOT Location AND NOT Storage,"('Internet',)","('PhoneState', 'Location', 'Storage')",1275,715,560,0.5606891151135474,0.9982704027782506,0.0,277,158,119,0.5703971119133574
+0,4,Internet AND NOT PhoneState AND NOT Location AND Storage,"('Internet', 'Storage')","('PhoneState', 'Location')",465,255,210,0.5481798715203426,0.975998510380784,0.0,110,51,59,0.4636363636363636
+0,5,Internet AND NOT PhoneState AND Location AND NOT Storage,"('Internet', 'Location')","('PhoneState', 'Storage')",145,76,69,0.5238095238095238,0.932608695652174,0.0,28,17,11,0.6071428571428571
+1,6,Internet AND NOT PhoneState AND Location AND Storage,"('Internet', 'Location', 'Storage')","('PhoneState',)",53,32,21,0.6,1.0682608695652174,0.08746518105849577,4,2,2,0.5
+0,7,Internet AND PhoneState AND NOT Location AND NOT Contacts AND NOT Storage,"('Internet', 'PhoneState')","('Location', 'Contacts', 'Storage')",845,433,412,0.512396694214876,0.912288896873877,0.0,173,89,84,0.5144508670520231
+0,8,Internet AND PhoneState AND NOT Location AND NOT Contacts AND Storage,"('Internet', 'PhoneState', 'Storage')","('Location', 'Contacts')",667,350,317,0.5246636771300448,0.9341294599337102,0.0,152,80,72,0.5263157894736842
+1,9,Internet AND PhoneState AND NOT Location AND Contacts,"('Internet', 'PhoneState', 'Contacts')","('Location',)",86,50,36,0.5795454545454546,1.0318428853754942,0.0408014687262599,13,6,7,0.46153846153846156
+0,10,Internet AND PhoneState AND Location AND NOT Storage,"('Internet', 'PhoneState', 'Location')","('Storage',)",336,138,198,0.41124260355029585,0.732190635451505,0.0,69,31,38,0.4492753623188406
+0,11,Internet AND PhoneState AND Location AND Storage,"('Internet', 'PhoneState', 'Location', 'Storage')",(),375,196,179,0.5225464190981433,0.9303598200899551,0.0,85,44,41,0.5176470588235295

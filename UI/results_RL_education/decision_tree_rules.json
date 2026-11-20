@@ -1,0 +1,175 @@
+[
+  {
+    "Node": 1,
+    "Conditions": [
+      [
+        "Internet",
+        0
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 1,
+    "ConditionsText": "NOT Internet",
+    "GrantedConditions": [],
+    "NotRequestedConditions": [
+      "Internet"
+    ],
+    "TrainingApps": 488,
+    "TrainingMalicious": 412,
+    "TrainingBenign": 76,
+    "MaliciousProbability": 0.8428571428571429,
+    "Lift": 1.2411900156581008,
+    "ExcessRisk": 0.5103488598713701,
+    "ValidationSupport": 110,
+    "ValidationMalicious": 85,
+    "ValidationBenign": 25,
+    "ValidationMaliciousRate": 0.7727272727272727
+  },
+  {
+    "Node": 4,
+    "Conditions": [
+      [
+        "Internet",
+        1
+      ],
+      [
+        "Storage",
+        0
+      ],
+      [
+        "PhoneState",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 2,
+    "ConditionsText": "Internet AND NOT Storage AND NOT PhoneState",
+    "GrantedConditions": [
+      "Internet"
+    ],
+    "NotRequestedConditions": [
+      "Storage",
+      "PhoneState"
+    ],
+    "TrainingApps": 727,
+    "TrainingMalicious": 431,
+    "TrainingBenign": 296,
+    "MaliciousProbability": 0.5925925925925926,
+    "Lift": 0.8726508584664613,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 158,
+    "ValidationMalicious": 88,
+    "ValidationBenign": 70,
+    "ValidationMaliciousRate": 0.5569620253164557
+  },
+  {
+    "Node": 5,
+    "Conditions": [
+      [
+        "Internet",
+        1
+      ],
+      [
+        "Storage",
+        0
+      ],
+      [
+        "PhoneState",
+        1
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 3,
+    "ConditionsText": "Internet AND NOT Storage AND PhoneState",
+    "GrantedConditions": [
+      "Internet",
+      "PhoneState"
+    ],
+    "NotRequestedConditions": [
+      "Storage"
+    ],
+    "TrainingApps": 126,
+    "TrainingMalicious": 66,
+    "TrainingBenign": 60,
+    "MaliciousProbability": 0.5234375,
+    "Lift": 0.7708131850419084,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 29,
+    "ValidationMalicious": 16,
+    "ValidationBenign": 13,
+    "ValidationMaliciousRate": 0.5517241379310345
+  },
+  {
+    "Node": 7,
+    "Conditions": [
+      [
+        "Internet",
+        1
+      ],
+      [
+        "Storage",
+        1
+      ],
+      [
+        "PhoneState",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 4,
+    "ConditionsText": "Internet AND Storage AND NOT PhoneState",
+    "GrantedConditions": [
+      "Internet",
+      "Storage"
+    ],
+    "NotRequestedConditions": [
+      "PhoneState"
+    ],
+    "TrainingApps": 398,
+    "TrainingMalicious": 247,
+    "TrainingBenign": 151,
+    "MaliciousProbability": 0.62,
+    "Lift": 0.9130109606705351,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 84,
+    "ValidationMalicious": 62,
+    "ValidationBenign": 22,
+    "ValidationMaliciousRate": 0.7380952380952381
+  },
+  {
+    "Node": 8,
+    "Conditions": [
+      [
+        "Internet",
+        1
+      ],
+      [
+        "Storage",
+        1
+      ],
+      [
+        "PhoneState",
+        1
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 5,
+    "ConditionsText": "Internet AND Storage AND PhoneState",
+    "GrantedConditions": [
+      "Internet",
+      "Storage",
+      "PhoneState"
+    ],
+    "NotRequestedConditions": [],
+    "TrainingApps": 545,
+    "TrainingMalicious": 395,
+    "TrainingBenign": 150,
+    "MaliciousProbability": 0.7239488117001828,
+    "Lift": 1.0660858065268972,
+    "ExcessRisk": 0.13983504218719978,
+    "ValidationSupport": 109,
+    "ValidationMalicious": 82,
+    "ValidationBenign": 27,
+    "ValidationMaliciousRate": 0.7522935779816514
+  }
+]

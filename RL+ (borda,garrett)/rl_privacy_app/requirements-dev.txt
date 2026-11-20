@@ -1,0 +1,6 @@
+# Model export (runs the notebooks) and tests
+-r requirements.txt
+matplotlib
+nbformat
+pytest
+httpx

@@ -1,0 +1,8 @@
+PredictedClass,RuleNumber,ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,TrainingBenign,MaliciousProbability,Lift,ExcessRisk,ValidationSupport,ValidationMalicious,ValidationBenign,ValidationMaliciousRate
+1,1,NOT Storage AND NOT Internet,(),"('Storage', 'Internet')",546,433,113,0.791970802919708,1.180598367528112,0.36803522745832123,100,80,20,0.8
+1,2,NOT Storage AND Internet AND NOT PhoneState,"('Internet',)","('Storage', 'PhoneState')",916,665,251,0.7254901960784313,1.0814950980392157,0.1660760689818095,196,127,69,0.6479591836734694
+0,3,NOT Storage AND Internet AND PhoneState,"('Internet', 'PhoneState')","('Storage',)",405,264,141,0.6511056511056511,0.9706093532107045,0.0,89,61,28,0.6853932584269663
+0,4,Storage AND NOT Camera AND NOT Calendar,"('Storage',)","('Camera', 'Calendar')",1399,799,600,0.5710206995003569,0.8512259582923395,0.0,309,186,123,0.6019417475728155
+1,5,Storage AND NOT Camera AND Calendar,"('Storage', 'Calendar')","('Camera',)",40,37,3,0.9047619047619048,1.34873712998713,0.7106794525038931,13,12,1,0.9230769230769231
+1,6,Storage AND Camera AND NOT Microphone,"('Storage', 'Camera')","('Microphone',)",186,143,43,0.7659574468085106,1.1418200115008625,0.2890101439191416,45,38,7,0.8444444444444444
+1,7,Storage AND Camera AND Microphone,"('Storage', 'Camera', 'Microphone')",(),38,27,11,0.7,1.0434966216216215,0.08864027538726318,5,4,1,0.8

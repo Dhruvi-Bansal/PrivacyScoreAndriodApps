@@ -1,0 +1,14 @@
+ConditionsText,GrantedConditions,NotRequestedConditions,TrainingApps,TrainingMalicious,MaliciousProbability,Lift,ExcessRisk,BinomialPValue,ValidationSupport,ValidationMaliciousRate,RuleNumber
+Contacts AND Internet AND PhoneState AND NOT Storage,"('Contacts', 'Internet', 'PhoneState')","('Storage',)",56,36,0.6379310344827587,1.1357946026986507,0.17399865526846617,0.13757097586156383,8,0.625,I1
+NOT Camera AND Internet AND Location AND NOT PhoneState AND Storage,"('Internet', 'Location', 'Storage')","('Camera', 'PhoneState')",50,32,0.6346153846153846,1.129891304347826,0.16643454038997207,0.16515636724778737,4,0.5,I2
+Contacts AND NOT Location AND PhoneState AND NOT Storage,"('Contacts', 'PhoneState')","('Location', 'Storage')",39,24,0.6097560975609756,1.0856309650053022,0.1097221278619471,0.30537762607382785,4,0.5,I3
+Contacts AND Internet AND NOT Storage,"('Contacts', 'Internet')","('Storage',)",62,38,0.609375,1.084952445652174,0.10885271587743732,0.24766342149113332,9,0.6666666666666666,I4
+Location AND NOT PhoneState AND Storage,"('Location', 'Storage')","('PhoneState',)",53,32,0.6,1.0682608695652174,0.08746518105849577,0.31759655646032375,4,0.5,I5
+Contacts AND Internet AND NOT Location AND Storage,"('Contacts', 'Internet', 'Storage')","('Location',)",57,34,0.5932203389830508,1.0561901252763448,0.07199848921202959,0.34777939962023235,11,0.45454545454545453,I6
+NOT Camera AND Contacts AND Internet AND NOT Location AND NOT SMS,"('Contacts', 'Internet')","('Camera', 'Location', 'SMS')",88,52,0.5888888888888889,1.0484782608695653,0.06211699164345407,0.32937560874825145,12,0.5833333333333334,I7
+NOT Camera AND Contacts AND Internet AND NOT Location,"('Contacts', 'Internet')","('Camera', 'Location')",101,59,0.5825242718446602,1.0371464753060362,0.04759715498823584,0.362597310474565,16,0.5,I8
+Contacts AND Internet AND NOT Location AND PhoneState,"('Contacts', 'Internet', 'PhoneState')","('Location',)",86,50,0.5795454545454546,1.0318428853754942,0.0408014687262599,0.3990733776843949,13,0.46153846153846156,I9
+Contacts AND Internet AND NOT Location AND PhoneState AND NOT SMS,"('Contacts', 'Internet', 'PhoneState')","('Location', 'SMS')",76,44,0.5769230769230769,1.0271739130434783,0.03481894150417815,0.42727557144746453,11,0.5454545454545454,I10
+NOT Contacts AND Location AND NOT PhoneState AND Storage,"('Location', 'Storage')","('Contacts', 'PhoneState')",50,29,0.5769230769230769,1.0271739130434783,0.03481894150417815,0.4550903174932719,3,0.6666666666666666,I11
+NOT Contacts AND Internet AND Location AND NOT SMS AND Storage,"('Internet', 'Location', 'Storage')","('Contacts', 'SMS')",371,212,0.5710455764075067,1.0167094066907565,0.021410381832167202,0.3726369474887275,65,0.6307692307692307,I12
+NOT Camera AND NOT Contacts AND Internet AND Location AND Storage,"('Internet', 'Location', 'Storage')","('Camera', 'Contacts')",367,209,0.5691056910569106,1.0132555673382821,0.016984849514233267,0.40233623584659345,68,0.6176470588235294,I13

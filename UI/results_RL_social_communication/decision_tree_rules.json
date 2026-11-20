@@ -1,0 +1,212 @@
+[
+  {
+    "Node": 3,
+    "Conditions": [
+      [
+        "Contacts",
+        0
+      ],
+      [
+        "Microphone",
+        0
+      ],
+      [
+        "Internet",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 1,
+    "ConditionsText": "NOT Contacts AND NOT Microphone AND NOT Internet",
+    "GrantedConditions": [],
+    "NotRequestedConditions": [
+      "Contacts",
+      "Microphone",
+      "Internet"
+    ],
+    "TrainingApps": 110,
+    "TrainingMalicious": 65,
+    "TrainingBenign": 45,
+    "MaliciousProbability": 0.5892857142857143,
+    "Lift": 0.8971891171397208,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 17,
+    "ValidationMalicious": 8,
+    "ValidationBenign": 9,
+    "ValidationMaliciousRate": 0.47058823529411764
+  },
+  {
+    "Node": 4,
+    "Conditions": [
+      [
+        "Contacts",
+        0
+      ],
+      [
+        "Microphone",
+        0
+      ],
+      [
+        "Internet",
+        1
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 2,
+    "ConditionsText": "NOT Contacts AND NOT Microphone AND Internet",
+    "GrantedConditions": [
+      "Internet"
+    ],
+    "NotRequestedConditions": [
+      "Contacts",
+      "Microphone"
+    ],
+    "TrainingApps": 752,
+    "TrainingMalicious": 571,
+    "TrainingBenign": 181,
+    "MaliciousProbability": 0.7586206896551724,
+    "Lift": 1.1550020818350428,
+    "ExcessRisk": 0.29665314401622705,
+    "ValidationSupport": 166,
+    "ValidationMalicious": 127,
+    "ValidationBenign": 39,
+    "ValidationMaliciousRate": 0.7650602409638554
+  },
+  {
+    "Node": 5,
+    "Conditions": [
+      [
+        "Contacts",
+        0
+      ],
+      [
+        "Microphone",
+        1
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 3,
+    "ConditionsText": "NOT Contacts AND Microphone",
+    "GrantedConditions": [
+      "Microphone"
+    ],
+    "NotRequestedConditions": [
+      "Contacts"
+    ],
+    "TrainingApps": 58,
+    "TrainingMalicious": 27,
+    "TrainingBenign": 31,
+    "MaliciousProbability": 0.4666666666666667,
+    "Lift": 0.710501280643981,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 11,
+    "ValidationMalicious": 6,
+    "ValidationBenign": 5,
+    "ValidationMaliciousRate": 0.5454545454545454
+  },
+  {
+    "Node": 7,
+    "Conditions": [
+      [
+        "Contacts",
+        1
+      ],
+      [
+        "PhoneState",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 4,
+    "ConditionsText": "Contacts AND NOT PhoneState",
+    "GrantedConditions": [
+      "Contacts"
+    ],
+    "NotRequestedConditions": [
+      "PhoneState"
+    ],
+    "TrainingApps": 96,
+    "TrainingMalicious": 37,
+    "TrainingBenign": 59,
+    "MaliciousProbability": 0.3877551020408163,
+    "Lift": 0.5903582069490804,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 22,
+    "ValidationMalicious": 10,
+    "ValidationBenign": 12,
+    "ValidationMaliciousRate": 0.45454545454545453
+  },
+  {
+    "Node": 9,
+    "Conditions": [
+      [
+        "Contacts",
+        1
+      ],
+      [
+        "PhoneState",
+        1
+      ],
+      [
+        "Camera",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 5,
+    "ConditionsText": "Contacts AND PhoneState AND NOT Camera",
+    "GrantedConditions": [
+      "Contacts",
+      "PhoneState"
+    ],
+    "NotRequestedConditions": [
+      "Camera"
+    ],
+    "TrainingApps": 284,
+    "TrainingMalicious": 153,
+    "TrainingBenign": 131,
+    "MaliciousProbability": 0.5384615384615384,
+    "Lift": 0.8198091699738241,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 58,
+    "ValidationMalicious": 28,
+    "ValidationBenign": 30,
+    "ValidationMaliciousRate": 0.4827586206896552
+  },
+  {
+    "Node": 10,
+    "Conditions": [
+      [
+        "Contacts",
+        1
+      ],
+      [
+        "PhoneState",
+        1
+      ],
+      [
+        "Camera",
+        1
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 6,
+    "ConditionsText": "Contacts AND PhoneState AND Camera",
+    "GrantedConditions": [
+      "Contacts",
+      "PhoneState",
+      "Camera"
+    ],
+    "NotRequestedConditions": [],
+    "TrainingApps": 87,
+    "TrainingMalicious": 58,
+    "TrainingBenign": 29,
+    "MaliciousProbability": 0.6629213483146067,
+    "Lift": 1.0092995720223485,
+    "ExcessRisk": 0.017798130488150127,
+    "ValidationSupport": 23,
+    "ValidationMalicious": 15,
+    "ValidationBenign": 8,
+    "ValidationMaliciousRate": 0.6521739130434783
+  }
+]

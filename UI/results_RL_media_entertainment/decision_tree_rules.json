@@ -1,0 +1,254 @@
+[
+  {
+    "Node": 2,
+    "Conditions": [
+      [
+        "Storage",
+        0
+      ],
+      [
+        "Internet",
+        0
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 1,
+    "ConditionsText": "NOT Storage AND NOT Internet",
+    "GrantedConditions": [],
+    "NotRequestedConditions": [
+      "Storage",
+      "Internet"
+    ],
+    "TrainingApps": 546,
+    "TrainingMalicious": 433,
+    "TrainingBenign": 113,
+    "MaliciousProbability": 0.791970802919708,
+    "Lift": 1.180598367528112,
+    "ExcessRisk": 0.36803522745832123,
+    "ValidationSupport": 100,
+    "ValidationMalicious": 80,
+    "ValidationBenign": 20,
+    "ValidationMaliciousRate": 0.8
+  },
+  {
+    "Node": 4,
+    "Conditions": [
+      [
+        "Storage",
+        0
+      ],
+      [
+        "Internet",
+        1
+      ],
+      [
+        "PhoneState",
+        0
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 2,
+    "ConditionsText": "NOT Storage AND Internet AND NOT PhoneState",
+    "GrantedConditions": [
+      "Internet"
+    ],
+    "NotRequestedConditions": [
+      "Storage",
+      "PhoneState"
+    ],
+    "TrainingApps": 916,
+    "TrainingMalicious": 665,
+    "TrainingBenign": 251,
+    "MaliciousProbability": 0.7254901960784313,
+    "Lift": 1.0814950980392157,
+    "ExcessRisk": 0.1660760689818095,
+    "ValidationSupport": 196,
+    "ValidationMalicious": 127,
+    "ValidationBenign": 69,
+    "ValidationMaliciousRate": 0.6479591836734694
+  },
+  {
+    "Node": 5,
+    "Conditions": [
+      [
+        "Storage",
+        0
+      ],
+      [
+        "Internet",
+        1
+      ],
+      [
+        "PhoneState",
+        1
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 3,
+    "ConditionsText": "NOT Storage AND Internet AND PhoneState",
+    "GrantedConditions": [
+      "Internet",
+      "PhoneState"
+    ],
+    "NotRequestedConditions": [
+      "Storage"
+    ],
+    "TrainingApps": 405,
+    "TrainingMalicious": 264,
+    "TrainingBenign": 141,
+    "MaliciousProbability": 0.6511056511056511,
+    "Lift": 0.9706093532107045,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 89,
+    "ValidationMalicious": 61,
+    "ValidationBenign": 28,
+    "ValidationMaliciousRate": 0.6853932584269663
+  },
+  {
+    "Node": 8,
+    "Conditions": [
+      [
+        "Storage",
+        1
+      ],
+      [
+        "Camera",
+        0
+      ],
+      [
+        "Calendar",
+        0
+      ]
+    ],
+    "PredictedClass": 0,
+    "RuleNumber": 4,
+    "ConditionsText": "Storage AND NOT Camera AND NOT Calendar",
+    "GrantedConditions": [
+      "Storage"
+    ],
+    "NotRequestedConditions": [
+      "Camera",
+      "Calendar"
+    ],
+    "TrainingApps": 1399,
+    "TrainingMalicious": 799,
+    "TrainingBenign": 600,
+    "MaliciousProbability": 0.5710206995003569,
+    "Lift": 0.8512259582923395,
+    "ExcessRisk": 0.0,
+    "ValidationSupport": 309,
+    "ValidationMalicious": 186,
+    "ValidationBenign": 123,
+    "ValidationMaliciousRate": 0.6019417475728155
+  },
+  {
+    "Node": 9,
+    "Conditions": [
+      [
+        "Storage",
+        1
+      ],
+      [
+        "Camera",
+        0
+      ],
+      [
+        "Calendar",
+        1
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 5,
+    "ConditionsText": "Storage AND NOT Camera AND Calendar",
+    "GrantedConditions": [
+      "Storage",
+      "Calendar"
+    ],
+    "NotRequestedConditions": [
+      "Camera"
+    ],
+    "TrainingApps": 40,
+    "TrainingMalicious": 37,
+    "TrainingBenign": 3,
+    "MaliciousProbability": 0.9047619047619048,
+    "Lift": 1.34873712998713,
+    "ExcessRisk": 0.7106794525038931,
+    "ValidationSupport": 13,
+    "ValidationMalicious": 12,
+    "ValidationBenign": 1,
+    "ValidationMaliciousRate": 0.9230769230769231
+  },
+  {
+    "Node": 11,
+    "Conditions": [
+      [
+        "Storage",
+        1
+      ],
+      [
+        "Camera",
+        1
+      ],
+      [
+        "Microphone",
+        0
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 6,
+    "ConditionsText": "Storage AND Camera AND NOT Microphone",
+    "GrantedConditions": [
+      "Storage",
+      "Camera"
+    ],
+    "NotRequestedConditions": [
+      "Microphone"
+    ],
+    "TrainingApps": 186,
+    "TrainingMalicious": 143,
+    "TrainingBenign": 43,
+    "MaliciousProbability": 0.7659574468085106,
+    "Lift": 1.1418200115008625,
+    "ExcessRisk": 0.2890101439191416,
+    "ValidationSupport": 45,
+    "ValidationMalicious": 38,
+    "ValidationBenign": 7,
+    "ValidationMaliciousRate": 0.8444444444444444
+  },
+  {
+    "Node": 12,
+    "Conditions": [
+      [
+        "Storage",
+        1
+      ],
+      [
+        "Camera",
+        1
+      ],
+      [
+        "Microphone",
+        1
+      ]
+    ],
+    "PredictedClass": 1,
+    "RuleNumber": 7,
+    "ConditionsText": "Storage AND Camera AND Microphone",
+    "GrantedConditions": [
+      "Storage",
+      "Camera",
+      "Microphone"
+    ],
+    "NotRequestedConditions": [],
+    "TrainingApps": 38,
+    "TrainingMalicious": 27,
+    "TrainingBenign": 11,
+    "MaliciousProbability": 0.7,
+    "Lift": 1.0434966216216215,
+    "ExcessRisk": 0.08864027538726318,
+    "ValidationSupport": 5,
+    "ValidationMalicious": 4,
+    "ValidationBenign": 1,
+    "ValidationMaliciousRate": 0.8
+  }
+]
